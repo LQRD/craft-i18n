@@ -2357,3 +2357,16 @@ preview	Title	Titel
 	✓ None	✓ Ingen
 	➕ New comment	➕ Ny kommentar
 	📂  Browse…	📂  Bläddra…
+	File not found	Filen hittades inte
+	Default document zoom:	Standardzoom för dokument:
+	Use document zoom	Använd dokumentets zoom
+	Override zoom saved in documents	Åsidosätt zoom som sparats i dokument
+	Applies to new and opened documents. Saved document zoom takes priority unless you override it.	Gäller nya och öppnade dokument. Dokumentets sparade zoom har företräde om du inte åsidosätter den.
+	Text Width	Textbredd
+	Pages per sheet	Sidor per ark
+	Booklet (left binding)	Häfte (bindning till vänster)
+	Booklet (right binding)	Häfte (bindning till höger)
+	Booklets: duplex on the short edge. Blank pages are added at the end.	Häften: dubbelsidig utskrift längs kortsidan. Tomma sidor läggs till i slutet.
+	Auto orientation	Automatisk orientering
+	Scale to paper size	Anpassa till pappersstorlek
+	No Scaling	Ingen skalning

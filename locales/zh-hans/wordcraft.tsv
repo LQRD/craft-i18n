@@ -2058,3 +2058,16 @@
 	{width} × {height} pixels	{width} × {height} 像素
 	{words} words	{words} 个字
 	“{text}” ({row}, {series}) isn't a number.	“{text}”（{row}，{series}）不是数字。
+	File not found	找不到文件
+	Default document zoom:	默认文档缩放：
+	Use document zoom	使用文档的缩放比例
+	Override zoom saved in documents	覆盖文档中保存的缩放比例
+	Applies to new and opened documents. Saved document zoom takes priority unless you override it.	适用于新建和打开的文档。除非启用覆盖，否则优先使用文档中保存的缩放比例。
+	Text Width	文字宽度
+	Pages per sheet	每张纸的页数
+	Booklet (left binding)	小册子（左侧装订）
+	Booklet (right binding)	小册子（右侧装订）
+	Booklets: duplex on the short edge. Blank pages are added at the end.	小册子：沿短边双面打印。空白页将添加到末尾。
+	Auto orientation	自动方向
+	Scale to paper size	缩放至纸张大小
+	No Scaling	不缩放

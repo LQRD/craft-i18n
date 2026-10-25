@@ -1986,3 +1986,16 @@
 	{width} × {height} pixels	{width} × {height} pikslit
 	{words} words	Sõnu: {words}
 	“{text}” ({row}, {series}) isn't a number.	„{text}” ({row}, {series}) ei ole arv.
+	File not found	Faili ei leitud
+	Default document zoom:	Dokumendi vaikesuum:
+	Use document zoom	Kasuta dokumendi suumi
+	Override zoom saved in documents	Asenda dokumentides salvestatud suum
+	Applies to new and opened documents. Saved document zoom takes priority unless you override it.	Kehtib uutele ja avatavatele dokumentidele. Dokumendis salvestatud suum on eelistatud, kui seda ei asendata.
+	Text Width	Teksti laius
+	Pages per sheet	Lehekülgi lehel
+	Booklet (left binding)	Brošüür (köide vasakul)
+	Booklet (right binding)	Brošüür (köide paremal)
+	Booklets: duplex on the short edge. Blank pages are added at the end.	Brošüürid: kahepoolne printimine mööda lühikest serva. Tühjad leheküljed lisatakse lõppu.
+	Auto orientation	Automaatne suund
+	Scale to paper size	Sobita paberi suurusega
+	No Scaling	Ilma mastaapimiseta

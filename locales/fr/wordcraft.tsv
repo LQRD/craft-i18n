@@ -2412,3 +2412,16 @@ preview	Title	Titre
 	✓ None	✓ Aucun
 	➕ New comment	➕ Nouveau commentaire
 	📂  Browse…	📂  Parcourir…
+	File not found	Fichier introuvable
+	Default document zoom:	Zoom des documents par défaut :
+	Use document zoom	Utiliser le zoom du document
+	Override zoom saved in documents	Remplacer le zoom enregistré dans les documents
+	Applies to new and opened documents. Saved document zoom takes priority unless you override it.	S’applique aux documents créés et ouverts. Le zoom enregistré dans le document est prioritaire, sauf si vous le remplacez.
+	Text Width	Largeur du texte
+	Pages per sheet	Pages par feuille
+	Booklet (left binding)	Livret (reliure à gauche)
+	Booklet (right binding)	Livret (reliure à droite)
+	Booklets: duplex on the short edge. Blank pages are added at the end.	Livrets : recto verso sur le bord court. Des pages vierges sont ajoutées à la fin.
+	Auto orientation	Orientation automatique
+	Scale to paper size	Adapter au format du papier
+	No Scaling	Aucune mise à l’échelle

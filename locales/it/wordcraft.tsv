@@ -2391,3 +2391,16 @@ preview	Title	Esempio
 	✓ None	✓ Nessuno
 	➕ New comment	➕ Nuovo commento
 	📂  Browse…	📂  Sfoglia…
+	File not found	File non trovato
+	Default document zoom:	Zoom predefinito dei documenti:
+	Use document zoom	Usa lo zoom del documento
+	Override zoom saved in documents	Sostituisci lo zoom salvato nei documenti
+	Applies to new and opened documents. Saved document zoom takes priority unless you override it.	Si applica ai documenti nuovi e aperti. Lo zoom salvato nel documento ha la precedenza, a meno che non venga sostituito.
+	Text Width	Larghezza testo
+	Pages per sheet	Pagine per foglio
+	Booklet (left binding)	Opuscolo (rilegatura a sinistra)
+	Booklet (right binding)	Opuscolo (rilegatura a destra)
+	Booklets: duplex on the short edge. Blank pages are added at the end.	Opuscoli: stampa fronte-retro sul lato corto. Le pagine vuote vengono aggiunte alla fine.
+	Auto orientation	Orientamento automatico
+	Scale to paper size	Adatta al formato carta
+	No Scaling	Nessun ridimensionamento

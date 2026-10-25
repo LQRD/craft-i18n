@@ -2040,3 +2040,16 @@
 	{width} × {height} pixels	{width} × {height} Pixel
 	{words} words	Wörter: {words}
 	“{text}” ({row}, {series}) isn't a number.	„{text}“ ({row}, {series}) ist keine Zahl.
+	File not found	Datei nicht gefunden
+	Default document zoom:	Standard-Dokumentzoom:
+	Use document zoom	Zoom aus dem Dokument verwenden
+	Override zoom saved in documents	Im Dokument gespeicherten Zoom überschreiben
+	Applies to new and opened documents. Saved document zoom takes priority unless you override it.	Gilt für neue und geöffnete Dokumente. Der gespeicherte Dokumentzoom hat Vorrang, sofern er nicht überschrieben wird.
+	Text Width	Textbreite
+	Pages per sheet	Seiten pro Blatt
+	Booklet (left binding)	Broschüre (Bindung links)
+	Booklet (right binding)	Broschüre (Bindung rechts)
+	Booklets: duplex on the short edge. Blank pages are added at the end.	Broschüren: beidseitig an der kurzen Kante drucken. Leere Seiten werden am Ende ergänzt.
+	Auto orientation	Automatische Ausrichtung
+	Scale to paper size	An Papiergröße anpassen
+	No Scaling	Keine Skalierung

@@ -2396,3 +2396,16 @@ preview	Title	Tytuł
 	✓ None	✓ Brak
 	➕ New comment	➕ Nowy komentarz
 	📂  Browse…	📂  Przeglądaj…
+	File not found	Nie znaleziono pliku
+	Default document zoom:	Domyślne powiększenie dokumentu:
+	Use document zoom	Użyj powiększenia z dokumentu
+	Override zoom saved in documents	Zastępuj powiększenie zapisane w dokumentach
+	Applies to new and opened documents. Saved document zoom takes priority unless you override it.	Dotyczy nowych i otwieranych dokumentów. Powiększenie zapisane w dokumencie ma pierwszeństwo, chyba że zostanie zastąpione.
+	Text Width	Szerokość tekstu
+	Pages per sheet	Stron na arkuszu
+	Booklet (left binding)	Broszura (oprawa z lewej)
+	Booklet (right binding)	Broszura (oprawa z prawej)
+	Booklets: duplex on the short edge. Blank pages are added at the end.	Broszury: druk dwustronny przy krótkiej krawędzi. Puste strony są dodawane na końcu.
+	Auto orientation	Orientacja automatyczna
+	Scale to paper size	Dopasuj do rozmiaru papieru
+	No Scaling	Bez skalowania

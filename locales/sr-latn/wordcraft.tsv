@@ -2001,3 +2001,16 @@
 	{width} × {height} pixels	{width} × {height} piksela
 	{words} words	{words} reči
 	“{text}” ({row}, {series}) isn't a number.	„{text}” ({row}, {series}) nije broj.
+	File not found	Datoteka nije pronađena
+	Default document zoom:	Podrazumevano uvećanje dokumenta:
+	Use document zoom	Koristi uvećanje iz dokumenta
+	Override zoom saved in documents	Zameni uvećanje sačuvano u dokumentima
+	Applies to new and opened documents. Saved document zoom takes priority unless you override it.	Primenjuje se na nove i otvorene dokumente. Sačuvano uvećanje dokumenta ima prednost osim ako ga zamenite.
+	Text Width	Širina teksta
+	Pages per sheet	Stranica po listu
+	Booklet (left binding)	Knjižica (povez levo)
+	Booklet (right binding)	Knjižica (povez desno)
+	Booklets: duplex on the short edge. Blank pages are added at the end.	Knjižice: dvostrano štampanje po kraćoj ivici. Prazne stranice se dodaju na kraju.
+	Auto orientation	Automatska orijentacija
+	Scale to paper size	Prilagodi veličini papira
+	No Scaling	Bez skaliranja

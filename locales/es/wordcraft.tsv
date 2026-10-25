@@ -2312,3 +2312,16 @@ preview	Title	Título
 	{words} words	{words} palabras
 	“{text}” ({row}, {series}) isn't a number.	«{text}» ({row}, {series}) no es un número.
 	✓ None	✓ Ninguno
+	File not found	Archivo no encontrado
+	Default document zoom:	Zoom predeterminado del documento:
+	Use document zoom	Usar el zoom del documento
+	Override zoom saved in documents	Reemplazar el zoom guardado en los documentos
+	Applies to new and opened documents. Saved document zoom takes priority unless you override it.	Se aplica a documentos nuevos y abiertos. El zoom guardado en el documento tiene prioridad salvo que lo reemplace.
+	Text Width	Ancho del texto
+	Pages per sheet	Páginas por hoja
+	Booklet (left binding)	Folleto (encuadernación izquierda)
+	Booklet (right binding)	Folleto (encuadernación derecha)
+	Booklets: duplex on the short edge. Blank pages are added at the end.	Folletos: impresión a doble cara por el borde corto. Se añaden páginas en blanco al final.
+	Auto orientation	Orientación automática
+	Scale to paper size	Ajustar al tamaño del papel
+	No Scaling	Sin escala

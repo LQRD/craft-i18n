@@ -2359,3 +2359,16 @@ preview	Title	Пример
 	{words} words	Слов: {words}
 	“{text}” ({row}, {series}) isn't a number.	«{text}» ({row}, {series}) — не число.
 	✓ None	✓ Нет
+	File not found	Файл не найден
+	Default document zoom:	Масштаб документов по умолчанию:
+	Use document zoom	Масштаб из документа
+	Override zoom saved in documents	Заменять масштаб, сохранённый в документах
+	Applies to new and opened documents. Saved document zoom takes priority unless you override it.	Применяется к новым и открываемым документам. Сохранённый в документе масштаб имеет приоритет, если не включена его замена.
+	Text Width	По ширине текста
+	Pages per sheet	Страниц на листе
+	Booklet (left binding)	Брошюра (переплёт слева)
+	Booklet (right binding)	Брошюра (переплёт справа)
+	Booklets: duplex on the short edge. Blank pages are added at the end.	Для брошюры выберите двустороннюю печать по короткому краю. Пустые страницы добавляются в конце.
+	Auto orientation	Автоматическая ориентация
+	Scale to paper size	Подогнать под размер бумаги
+	No Scaling	Без масштабирования

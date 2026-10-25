@@ -2066,3 +2066,16 @@
 	{width} × {height} pixels	{width} × {height} пікс.
 	{words} words	Слів: {words}
 	“{text}” ({row}, {series}) isn't a number.	«{text}» ({row}, {series}) — не число.
+	File not found	Файл не знайдено
+	Default document zoom:	Масштаб нових документів:
+	Use document zoom	Масштаб із документа
+	Override zoom saved in documents	Замінювати масштаб, збережений у документах
+	Applies to new and opened documents. Saved document zoom takes priority unless you override it.	Застосовується до нових і відкритих документів. Збережений у документі масштаб має пріоритет, якщо не ввімкнено його заміну.
+	Text Width	За шириною тексту
+	Pages per sheet	Сторінок на аркуші
+	Booklet (left binding)	Брошура (палітурка ліворуч)
+	Booklet (right binding)	Брошура (палітурка праворуч)
+	Booklets: duplex on the short edge. Blank pages are added at the end.	Для брошури виберіть двобічний друк по короткому краю. Порожні сторінки додаються в кінці.
+	Auto orientation	Автоматична орієнтація
+	Scale to paper size	Підігнати під розмір паперу
+	No Scaling	Без масштабування

@@ -2375,3 +2375,16 @@
 	✓ None	✓ Nincs
 	➕ New comment	➕ Új megjegyzés
 	📂  Browse…	📂  Tallózás…
+	File not found	A fájl nem található
+	Default document zoom:	Alapértelmezett dokumentumnagyítás:
+	Use document zoom	A dokumentum nagyításának használata
+	Override zoom saved in documents	A dokumentumokba mentett nagyítás felülbírálása
+	Applies to new and opened documents. Saved document zoom takes priority unless you override it.	Új és megnyitott dokumentumokra vonatkozik. A dokumentumba mentett nagyítás elsőbbséget élvez, hacsak nem bírálja felül.
+	Text Width	Szövegszélesség
+	Pages per sheet	Oldal laponként
+	Booklet (left binding)	Füzet (bal oldali kötés)
+	Booklet (right binding)	Füzet (jobb oldali kötés)
+	Booklets: duplex on the short edge. Blank pages are added at the end.	Füzetek: kétoldalas nyomtatás a rövid él mentén. Az üres oldalak a végére kerülnek.
+	Auto orientation	Automatikus tájolás
+	Scale to paper size	Igazítás a papírmérethez
+	No Scaling	Nincs átméretezés

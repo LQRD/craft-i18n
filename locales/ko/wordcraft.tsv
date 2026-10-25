@@ -2287,3 +2287,16 @@ preview	Title	제목
 	✓ None	✓ 없음
 	➕ New comment	➕ 새 메모
 	📂  Browse…	📂  찾아보기…
+	File not found	파일을 찾을 수 없음
+	Default document zoom:	기본 문서 확대/축소:
+	Use document zoom	문서의 확대/축소 사용
+	Override zoom saved in documents	문서에 저장된 확대/축소 재정의
+	Applies to new and opened documents. Saved document zoom takes priority unless you override it.	새 문서와 여는 문서에 적용됩니다. 재정의하지 않으면 문서에 저장된 확대/축소가 우선합니다.
+	Text Width	텍스트 너비
+	Pages per sheet	용지당 페이지 수
+	Booklet (left binding)	소책자(왼쪽 제본)
+	Booklet (right binding)	소책자(오른쪽 제본)
+	Booklets: duplex on the short edge. Blank pages are added at the end.	소책자는 짧은 가장자리를 기준으로 양면 인쇄하세요. 빈 페이지는 끝에 추가됩니다.
+	Auto orientation	자동 방향
+	Scale to paper size	용지 크기에 맞춤
+	No Scaling	배율 조정 안 함

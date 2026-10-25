@@ -2343,3 +2343,16 @@ preview	Title	Örnek
 	{words} words	{words} sözcük
 	“{text}” ({row}, {series}) isn't a number.	“{text}” ({row}, {series}) bir sayı değil.
 	✓ None	✓ Yok
+	File not found	Dosya bulunamadı
+	Default document zoom:	Varsayılan belge yakınlaştırması:
+	Use document zoom	Belgedeki yakınlaştırmayı kullan
+	Override zoom saved in documents	Belgelerde kayıtlı yakınlaştırmayı geçersiz kıl
+	Applies to new and opened documents. Saved document zoom takes priority unless you override it.	Yeni ve açılan belgelere uygulanır. Geçersiz kılmadığınız sürece belgede kayıtlı yakınlaştırma önceliklidir.
+	Text Width	Metin genişliği
+	Pages per sheet	Yaprak başına sayfa
+	Booklet (left binding)	Kitapçık (soldan ciltli)
+	Booklet (right binding)	Kitapçık (sağdan ciltli)
+	Booklets: duplex on the short edge. Blank pages are added at the end.	Kitapçıklar: kısa kenardan çift taraflı yazdırın. Boş sayfalar sona eklenir.
+	Auto orientation	Otomatik yönlendirme
+	Scale to paper size	Kağıt boyutuna sığdır
+	No Scaling	Ölçeklendirme yok

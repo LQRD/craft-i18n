@@ -2451,3 +2451,16 @@ template	Letter	Thư
 	✓ None	✓ Không có
 	➕ New comment	➕ Nhận xét mới
 	📂  Browse…	📂  Duyệt…
+	File not found	Không tìm thấy tệp
+	Default document zoom:	Thu phóng mặc định của tài liệu:
+	Use document zoom	Dùng mức thu phóng của tài liệu
+	Override zoom saved in documents	Ghi đè mức thu phóng đã lưu trong tài liệu
+	Applies to new and opened documents. Saved document zoom takes priority unless you override it.	Áp dụng cho tài liệu mới và tài liệu được mở. Mức thu phóng đã lưu trong tài liệu được ưu tiên trừ khi bạn ghi đè.
+	Text Width	Chiều rộng văn bản
+	Pages per sheet	Số trang trên mỗi tờ
+	Booklet (left binding)	Sách nhỏ (đóng gáy trái)
+	Booklet (right binding)	Sách nhỏ (đóng gáy phải)
+	Booklets: duplex on the short edge. Blank pages are added at the end.	Sách nhỏ: in hai mặt theo cạnh ngắn. Các trang trống được thêm vào cuối.
+	Auto orientation	Hướng tự động
+	Scale to paper size	Vừa với khổ giấy
+	No Scaling	Không co giãn

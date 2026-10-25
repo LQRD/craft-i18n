@@ -2358,3 +2358,16 @@ preview	Title	Ukázka
 	✓ None	✓ Žádné
 	➕ New comment	➕ Nový komentář
 	📂  Browse…	📂  Procházet…
+	File not found	Soubor nenalezen
+	Default document zoom:	Výchozí přiblížení dokumentu:
+	Use document zoom	Použít přiblížení dokumentu
+	Override zoom saved in documents	Přepsat přiblížení uložené v dokumentech
+	Applies to new and opened documents. Saved document zoom takes priority unless you override it.	Platí pro nové a otevírané dokumenty. Uložené přiblížení dokumentu má přednost, pokud jej nepřepíšete.
+	Text Width	Šířka textu
+	Pages per sheet	Stránek na list
+	Booklet (left binding)	Brožura (vazba vlevo)
+	Booklet (right binding)	Brožura (vazba vpravo)
+	Booklets: duplex on the short edge. Blank pages are added at the end.	Brožury: oboustranný tisk přes krátký okraj. Prázdné stránky se přidají na konec.
+	Auto orientation	Automatická orientace
+	Scale to paper size	Přizpůsobit velikosti papíru
+	No Scaling	Bez změny měřítka

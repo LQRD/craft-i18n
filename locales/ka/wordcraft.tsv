@@ -2800,3 +2800,18 @@ preview	Title	სათაური
 	✓ None	✓ არცერთი
 	➕ New comment	➕ ახალი კომენტარი
 	📂  Browse…	📂  არჩევა…
+
+# WordCraft preferences and print sheet controls; AI-assisted, native-speaker review pending.
+	Applies to new and opened documents. Saved document zoom takes priority unless you override it.	ვრცელდება ახალ და გახსნილ დოკუმენტებზე. დოკუმენტში შენახულ მასშტაბს უპირატესობა ენიჭება, თუ მას არ ჩაანაცვლებთ.
+	Auto orientation	ავტომატური ორიენტაცია
+	Booklet (left binding)	ბუკლეტი (მარცხენა აკინძვა)
+	Booklet (right binding)	ბუკლეტი (მარჯვენა აკინძვა)
+	Booklets: duplex on the short edge. Blank pages are added at the end.	ბუკლეტები: ორმხრივი ბეჭდვა მოკლე კიდეზე გადაბრუნებით. ცარიელი გვერდები ემატება ბოლოში.
+	Default document zoom:	დოკუმენტის ნაგულისხმევი მასშტაბი:
+	File not found	ფაილი ვერ მოიძებნა
+	No Scaling	მასშტაბირების გარეშე
+	Override zoom saved in documents	დოკუმენტებში შენახული მასშტაბის ჩანაცვლება
+	Pages per sheet	გვერდები ერთ ფურცელზე
+	Scale to paper size	ქაღალდის ზომაზე მორგება
+	Text Width	ტექსტის სიგანე
+	Use document zoom	დოკუმენტის მასშტაბის გამოყენება

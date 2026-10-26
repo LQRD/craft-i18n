@@ -165,6 +165,7 @@
 	Anyone can open this document. Encrypt it with a password to keep it private.	N’importe qui peut ouvrir ce document. Chiffrez-le avec un mot de passe pour le garder confidentiel.
 	Anyone who opens the document will need this password.	Quiconque ouvre le document devra saisir ce mot de passe.
 	APA	APA
+	Applies to new and opened documents. Saved document zoom takes priority unless you override it.	S’applique aux documents créés et ouverts. Le zoom enregistré dans le document est prioritaire, sauf si vous le remplacez.
 	Apply as you type	Appliquer pendant la frappe
 	Apply Asian line-breaking rules (kinsoku)	Appliquer les règles de coupure de lignes asiatiques (kinsoku)
 	Apply formatting to:	Appliquer la mise en forme à :
@@ -191,6 +192,7 @@
 	Attach…	Attacher…
 	Auto	Auto
 	Auto ({percent}%)	Auto ({percent}%)
+	Auto orientation	Orientation automatique
 	AutoCorrect	Correction automatique
 	AutoCorrect Options	Options de correction automatique
 	AutoFit	Ajustement automatique
@@ -259,6 +261,9 @@
 	Book	Livre
 	Book Title	Titre du livre
 	Book title	Titre du livre
+	Booklet (left binding)	Livret (reliure à gauche)
+	Booklet (right binding)	Livret (reliure à droite)
+	Booklets: duplex on the short edge. Blank pages are added at the end.	Livrets : recto verso sur le bord court. Des pages vierges sont ajoutées à la fin.
 	Bookmark	Signet
 	Bookmark name:	Nom du signet :
 	Border lines	Lignes de bordure
@@ -555,6 +560,7 @@
 	Decrease Font Size	Réduire la taille de la police
 	Decrease Indent	Diminuer le retrait
 	Deep	Profond
+	Default document zoom:	Zoom des documents par défaut :
 	Default Paragraph Font	Police par défaut
 	Default tab stops:	Taquets de tabulation par défaut :
 	Define New Bullet	Définir une nouvelle puce
@@ -793,6 +799,7 @@
 	Figure	Figure
 	File locations	Dossiers par défaut
 	File name:	Nom du fichier :
+	File not found	Fichier introuvable
 	File › New lists the .dotx and .dotm templates here under Personal; Save as Word Template starts here.	Fichier › Nouveau affiche les modèles .dotx et .dotm de ce dossier sous Personnel ; Enregistrer comme modèle Word commence ici.
 	Fill color:	Couleur de remplissage :
 	Filling in forms	Remplissage de formulaires
@@ -1373,6 +1380,7 @@ template	Letter	Lettre
 	No Paragraph Space	Sans espacement entre les paragraphes
 	No printers found. Configure a system printer or export a PDF.	Aucune imprimante trouvée. Configurez une imprimante système ou exportez un PDF.
 	No Reflection	Aucun reflet
+	No Scaling	Aucune mise à l’échelle
 	No Shadow	Sans ombre
 	No Soft Edges	Sans bords adoucis
 	No sources yet.	Aucune source pour le moment.
@@ -1497,6 +1505,7 @@ template	Letter	Lettre
 	Overbar	Barre supérieure
 	Overbars and Underbars	Barres supérieures et inférieures
 	Overbrace	Accolade supérieure
+	Override zoom saved in documents	Remplacer le zoom enregistré dans les documents
 	Overtype	Refrappe
 	Overtype (typing replaces the characters after the caret)	Refrappe (la frappe remplace les caractères situés après le curseur)
 	Page Background	Arrière-plan de page
@@ -1529,6 +1538,7 @@ template	Letter	Lettre
 	Page\nNumber	Numéro\nde page
 	Pages like 1-3, 5	Pages, par exemple 1-3, 5
 	Pages of bookmark:	Pages du signet :
+	Pages per sheet	Pages par feuille
 	Paper size:	Taille du papier :
 	Paragraph Character	Caractère de paragraphe
 	Paragraph Details	Détails du paragraphe
@@ -1799,6 +1809,7 @@ template	Letter	Lettre
 	Saves a .dotx template in your templates folder. It shows up in File › New under Personal.	Enregistre un modèle .dotx dans votre dossier de modèles. Il apparaît dans Fichier › Nouveau, sous Personnel.
 	Saving {name} was cancelled, so it is still open and nothing was lost.	L'enregistrement de {name} a été annulé : le document reste ouvert et rien n'a été perdu.
 	Scale Drawing	Mettre le dessin à l’échelle
+	Scale to paper size	Adapter au format du papier
 	Scatter	Nuage de points
 	Script	Script
 	Scripts	Indices et exposants
@@ -2135,6 +2146,7 @@ template	Letter	Lettre
 	Text size	Taille du texte
 	Text snaps to characters	Le texte s’aligne sur les caractères
 	Text to display:	Texte à afficher :
+	Text Width	Largeur du texte
 	Text Wrapping	Habillage du texte
 	Text\nBox	Zone de\ntexte
 	Text\nDirection	Sens du\ntexte
@@ -2300,6 +2312,7 @@ preview	Title	Titre
 	Use "a" before a consonant sound	Utiliser « a » devant un son consonne
 	Use "an" before a vowel sound	Utiliser « an » devant un son voyelle
 	Use an Existing List…	Utiliser une liste existante…
+	Use document zoom	Utiliser le zoom du document
 	Use system setting	Utiliser le paramètre système
 	Use the browser's full screen (F11)	Utilisez le plein écran du navigateur (F11)
 	Use the Insert key to switch overtype on and off	Utiliser la touche Inser pour activer ou désactiver le mode Refrappe
@@ -2412,16 +2425,3 @@ preview	Title	Titre
 	✓ None	✓ Aucun
 	➕ New comment	➕ Nouveau commentaire
 	📂  Browse…	📂  Parcourir…
-	File not found	Fichier introuvable
-	Default document zoom:	Zoom des documents par défaut :
-	Use document zoom	Utiliser le zoom du document
-	Override zoom saved in documents	Remplacer le zoom enregistré dans les documents
-	Applies to new and opened documents. Saved document zoom takes priority unless you override it.	S’applique aux documents créés et ouverts. Le zoom enregistré dans le document est prioritaire, sauf si vous le remplacez.
-	Text Width	Largeur du texte
-	Pages per sheet	Pages par feuille
-	Booklet (left binding)	Livret (reliure à gauche)
-	Booklet (right binding)	Livret (reliure à droite)
-	Booklets: duplex on the short edge. Blank pages are added at the end.	Livrets : recto verso sur le bord court. Des pages vierges sont ajoutées à la fin.
-	Auto orientation	Orientation automatique
-	Scale to paper size	Adapter au format du papier
-	No Scaling	Aucune mise à l’échelle

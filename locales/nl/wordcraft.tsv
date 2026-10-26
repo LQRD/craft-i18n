@@ -203,6 +203,7 @@
 	Attach…	Koppelen…
 	Auto	Auto
 	Auto ({percent}%)	Automatisch ({percent}%)
+	Auto orientation	Automatische afdrukstand
 	AutoCorrect	AutoCorrect
 	AutoCorrect Options	AutoCorrect-opties
 	AutoFit	Automatisch aanpassen
@@ -271,6 +272,9 @@
 	Book	Boek
 	Book Title	Boektitel
 	Book title	Boektitel
+	Booklet (left binding)	Boekje (links gebonden)
+	Booklet (right binding)	Boekje (rechts gebonden)
+	Booklets: duplex on the short edge. Blank pages are added at the end.	Boekjes: dubbelzijdig afdrukken langs de korte zijde. Lege pagina’s worden aan het einde toegevoegd.
 	Bookmark	Bladwijzer
 	Bookmark name:	Bladwijzernaam:
 	Border lines	Randlijnen
@@ -1378,6 +1382,7 @@
 	No Paragraph Space	Geen alineaafstand
 	No printers found. Configure a system printer or export a PDF.	Geen printers gevonden. Configureer een systeemprinter of exporteer een PDF.
 	No Reflection	Geen spiegeling
+	No Scaling	Niet schalen
 	No Shadow	Geen schaduw
 	No Soft Edges	Geen zachte randen
 	No sources yet.	Nog geen bronnen.
@@ -1533,6 +1538,7 @@
 	Page\nNumber	Pagina-\nnummer
 	Pages like 1-3, 5	Pagina's zoals 1-3, 5
 	Pages of bookmark:	Pagina's van bladwijzer:
+	Pages per sheet	Pagina’s per vel
 	Paper size:	Papierformaat:
 	Paragraph Character	Alineateken
 	Paragraph Details	Alinedetails
@@ -1810,6 +1816,7 @@
 	Save these pages as PDF…	Deze pagina's opslaan als PDF…
 	Saving {name} was cancelled, so it is still open and nothing was lost.	Het opslaan van {name} is geannuleerd, dus het document is nog geopend en er is niets verloren.
 	Scale Drawing	Tekening schalen
+	Scale to paper size	Aanpassen aan papierformaat
 	Scatter	Spreiding
 	Script	Index
 	Scroll ribbon left	Lint naar links schuiven
@@ -2433,10 +2440,3 @@ preview	Title	Titel
 	✓ None	✓ Geen
 	➕ New comment	➕ Nieuwe opmerking
 	📂  Browse…	📂  Bladeren…
-	Pages per sheet	Pagina’s per vel
-	Booklet (left binding)	Boekje (links gebonden)
-	Booklet (right binding)	Boekje (rechts gebonden)
-	Booklets: duplex on the short edge. Blank pages are added at the end.	Boekjes: dubbelzijdig afdrukken langs de korte zijde. Lege pagina’s worden aan het einde toegevoegd.
-	Auto orientation	Automatische afdrukstand
-	Scale to paper size	Aanpassen aan papierformaat
-	No Scaling	Niet schalen

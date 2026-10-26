@@ -162,6 +162,7 @@
 	Any Letter	Любая буква
 	Anyone can open this document. Encrypt it with a password to keep it private.	Этот документ может открыть любой. Зашифруйте его паролем, чтобы защитить.
 	Anyone who opens the document will need this password.	Для открытия документа понадобится этот пароль.
+	Applies to new and opened documents. Saved document zoom takes priority unless you override it.	Применяется к новым и открываемым документам. Сохранённый в документе масштаб имеет приоритет, если не включена его замена.
 	Apply as you type	Применять при вводе
 	Apply Asian line-breaking rules (kinsoku)	Применять азиатские правила переноса строк (кинсоку)
 	Apply Character Style	Применить стиль знаков
@@ -186,6 +187,7 @@
 	Atmosphere	Атмосфера
 	Attach Template	Присоединить шаблон
 	Attach…	Присоединить…
+	Auto orientation	Автоматическая ориентация
 	AutoCorrect	Автозамена
 	AutoCorrect Options	Параметры автозамены
 	AutoFit	Автоподбор
@@ -252,6 +254,9 @@
 	Book	Книга
 	Book Title	Название книги
 	Book title	Название книги
+	Booklet (left binding)	Брошюра (переплёт слева)
+	Booklet (right binding)	Брошюра (переплёт справа)
+	Booklets: duplex on the short edge. Blank pages are added at the end.	Для брошюры выберите двустороннюю печать по короткому краю. Пустые страницы добавляются в конце.
 	Bookmark	Закладка
 	Bookmark name:	Имя закладки:
 	Border lines	Линии границ
@@ -538,6 +543,7 @@
 	Decorative objects only add visual interest: screen readers skip them.	Декоративные объекты лишь украшают документ: программы чтения с экрана их пропускают.
 	Decrease Indent	Уменьшить отступ
 	Deep	Глубокий
+	Default document zoom:	Масштаб документов по умолчанию:
 	Default Paragraph Font	Шрифт абзаца по умолчанию
 	Default tab stops:	Табуляция по умолчанию:
 	Define New Bullet	Определить новый маркер
@@ -774,6 +780,7 @@
 	Figure	Рисунок
 	File locations	Расположение файлов
 	File name:	Имя файла:
+	File not found	Файл не найден
 	File › New lists the .dotx and .dotm templates here under Personal; Save as Word Template starts here.	Файл › Создать показывает отсюда шаблоны .dotx и .dotm в группе «Личные»; «Сохранить как шаблон Word» начинает здесь.
 	Fill color:	Цвет заливки:
 	Filling in forms	Заполнение форм
@@ -1334,6 +1341,7 @@
 	No Paragraph Space	Без интервала между абзацами
 	No printers found. Configure a system printer or export a PDF.	Принтеры не найдены. Настройте системный принтер или экспортируйте PDF.
 	No Reflection	Без отражения
+	No Scaling	Без масштабирования
 	No Shadow	Без тени
 	No Soft Edges	Без сглаживания
 	No sources yet.	Источников пока нет.
@@ -1455,6 +1463,7 @@
 	Overbar	Черта сверху
 	Overbars and Underbars	Черта сверху и снизу
 	Overbrace	Фигурная скобка сверху
+	Override zoom saved in documents	Заменять масштаб, сохранённый в документах
 	Overtype	Замена
 	Overtype (typing replaces the characters after the caret)	Замена (вводимый текст заменяет символы после курсора)
 	Page Background	Фон страницы
@@ -1487,6 +1496,7 @@
 	Page\nNumber	Номер\nстраницы
 	Pages like 1-3, 5	Страницы, например 1-3, 5
 	Pages of bookmark:	Страницы закладки:
+	Pages per sheet	Страниц на листе
 	Paper size:	Размер бумаги:
 	Paragraph Character	Знак абзаца
 	Paragraph Details	Сведения об абзаце
@@ -1754,6 +1764,7 @@
 	Saves a .dotx template in your templates folder. It shows up in File › New under Personal.	Сохраняет шаблон .dotx в папку шаблонов. Он появится в разделе Файл › Создать, в группе «Личные».
 	Saving {name} was cancelled, so it is still open and nothing was lost.	Сохранение {name} отменено. Документ по-прежнему открыт, ничего не потеряно.
 	Scale Drawing	Масштабировать рисунок
+	Scale to paper size	Подогнать под размер бумаги
 	Scatter	Точечная
 	Script	Индекс
 	Scripts	Индексы
@@ -2090,6 +2101,7 @@
 	Text size	Размер текста
 	Text snaps to characters	Текст привязывается к символам
 	Text to display:	Отображаемый текст:
+	Text Width	По ширине текста
 	Text Wrapping	Обтекание текстом
 	Text\nBox	Текстовое\nполе
 	Text\nDirection	Направление\nтекста
@@ -2250,6 +2262,7 @@ preview	Title	Пример
 	URGENT	СРОЧНО!
 	URL	URL
 	Use an Existing List…	Использовать существующий список…
+	Use document zoom	Масштаб из документа
 	Use system setting	Как в системе
 	Use the browser's full screen (F11)	Используйте полноэкранный режим браузера (F11)
 	Use the Insert key to switch overtype on and off	Клавиша Insert включает и выключает режим замены
@@ -2359,16 +2372,3 @@ preview	Title	Пример
 	{words} words	Слов: {words}
 	“{text}” ({row}, {series}) isn't a number.	«{text}» ({row}, {series}) — не число.
 	✓ None	✓ Нет
-	File not found	Файл не найден
-	Default document zoom:	Масштаб документов по умолчанию:
-	Use document zoom	Масштаб из документа
-	Override zoom saved in documents	Заменять масштаб, сохранённый в документах
-	Applies to new and opened documents. Saved document zoom takes priority unless you override it.	Применяется к новым и открываемым документам. Сохранённый в документе масштаб имеет приоритет, если не включена его замена.
-	Text Width	По ширине текста
-	Pages per sheet	Страниц на листе
-	Booklet (left binding)	Брошюра (переплёт слева)
-	Booklet (right binding)	Брошюра (переплёт справа)
-	Booklets: duplex on the short edge. Blank pages are added at the end.	Для брошюры выберите двустороннюю печать по короткому краю. Пустые страницы добавляются в конце.
-	Auto orientation	Автоматическая ориентация
-	Scale to paper size	Подогнать под размер бумаги
-	No Scaling	Без масштабирования

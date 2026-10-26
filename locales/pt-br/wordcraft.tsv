@@ -132,6 +132,7 @@
 	Any Letter	Qualquer letra
 	Anyone can open this document. Encrypt it with a password to keep it private.	Qualquer pessoa pode abrir este documento. Criptografe-o com uma senha para mantê-lo privado.
 	Anyone who opens the document will need this password.	Quem abrir o documento precisará desta senha.
+	Applies to new and opened documents. Saved document zoom takes priority unless you override it.	Aplica-se a documentos novos e abertos. O zoom salvo no documento tem prioridade, a menos que você o substitua.
 	Apply as you type	Aplicar ao digitar
 	Apply Asian line-breaking rules (kinsoku)	Aplicar as regras asiáticas de quebra de linha (kinsoku)
 	Apply Character Style	Aplicar estilo de caractere
@@ -156,6 +157,7 @@
 	Attach…	Anexar…
 	Auto	Auto
 	Auto ({percent}%)	Auto ({percent}%)
+	Auto orientation	Orientação automática
 	AutoCorrect	Autocorreção
 	AutoCorrect Options	Opções de autocorreção
 	AutoFit	Autoajuste
@@ -214,6 +216,9 @@
 	Body Text	Corpo do texto
 	Book	Livro
 	Book title	Título do livro
+	Booklet (left binding)	Livreto (encadernação à esquerda)
+	Booklet (right binding)	Livreto (encadernação à direita)
+	Booklets: duplex on the short edge. Blank pages are added at the end.	Livretos: impressão frente e verso pela borda curta. Páginas em branco são adicionadas no final.
 	Bookmark	Indicador
 	Bookmark name:	Nome do indicador:
 	Border lines	Linhas de borda
@@ -451,6 +456,7 @@
 	Decrease Font Size	Diminuir tamanho da fonte
 	Decrease Indent	Diminuir recuo
 	Deep	Profundo
+	Default document zoom:	Zoom padrão do documento:
 	Default tab stops:	Tabulações padrão:
 	Define New Bullet	Definir novo marcador
 	Define New Multilevel List	Definir nova lista de vários níveis
@@ -648,6 +654,7 @@
 	Figure	Figura
 	File locations	Locais de arquivos
 	File name:	Nome do arquivo:
+	File not found	Arquivo não encontrado
 	File › New lists the .dotx and .dotm templates here under Personal; Save as Word Template starts here.	Arquivo › Novo lista os modelos .dotx e .dotm daqui em Pessoal; Salvar como modelo do Word começa aqui.
 	Fill	Cor de fundo
 	Fill color:	Cor de preenchimento:
@@ -1124,6 +1131,7 @@
 	No Paragraph Space	Sem espaço entre parágrafos
 	No printers found. Configure a system printer or export a PDF.	Nenhuma impressora encontrada. Configure uma impressora no sistema ou exporte um PDF.
 	No Reflection	Sem reflexo
+	No Scaling	Sem dimensionamento
 	No Shadow	Sem sombra
 	No Soft Edges	Sem bordas suaves
 	No sources yet.	Ainda não há fontes.
@@ -1232,6 +1240,7 @@
 	Outside border	Borda externa
 	Outside Borders	Bordas externas
 	Outside:	Externo:
+	Override zoom saved in documents	Substituir o zoom salvo nos documentos
 	Overtype	Sobrescrever
 	Overtype (typing replaces the characters after the caret)	Sobrescrever (o que você digita substitui os caracteres após o cursor)
 	Page Background	Plano de fundo da página
@@ -1264,6 +1273,7 @@
 	Page\nNumber	Número da\npágina
 	Pages like 1-3, 5	Páginas como 1-3, 5
 	Pages of bookmark:	Páginas do indicador:
+	Pages per sheet	Páginas por folha
 	Paper size:	Tamanho do papel:
 	Paragraph Character	Símbolo de parágrafo
 	Paragraph Details	Detalhes do parágrafo
@@ -1506,6 +1516,7 @@
 	Saves a .dotx template in your templates folder. It shows up in File › New under Personal.	Salva um modelo .dotx na sua pasta de modelos. Ele aparece em Arquivo › Novo, em Pessoal.
 	Saving {name} was cancelled, so it is still open and nothing was lost.	O salvamento de {name} foi cancelado; ele continua aberto e nada foi perdido.
 	Scale Drawing	Dimensionar desenho
+	Scale to paper size	Ajustar ao tamanho do papel
 	Scatter	Dispersão
 	Script	Índice
 	Scroll ribbon left	Rolar a faixa de opções para a esquerda
@@ -1785,6 +1796,7 @@
 	Text size	Tamanho do texto
 	Text snaps to characters	O texto se ajusta aos caracteres
 	Text to display:	Texto a ser exibido:
+	Text Width	Largura do texto
 	Text Wrapping	Quebra de texto
 	Text\nBox	Caixa de\ntexto
 	Text\nDirection	Direção do\ntexto
@@ -1916,6 +1928,7 @@
 	Update to Match Selection	Atualizar para corresponder à seleção
 	URL	URL
 	Use an Existing List…	Usar uma lista existente…
+	Use document zoom	Usar o zoom do documento
 	Use system setting	Usar a configuração do sistema
 	Use the browser's full screen (F11)	Use a tela inteira do navegador (F11)
 	Use the Insert key to switch overtype on and off	Usar a tecla Insert para ativar e desativar a sobrescrita
@@ -2015,16 +2028,3 @@
 	{width} × {height} pixels	{width} × {height} pixels
 	{words} words	Palavras: {words}
 	“{text}” ({row}, {series}) isn't a number.	“{text}” ({row}, {series}) não é um número.
-	File not found	Arquivo não encontrado
-	Default document zoom:	Zoom padrão do documento:
-	Use document zoom	Usar o zoom do documento
-	Override zoom saved in documents	Substituir o zoom salvo nos documentos
-	Applies to new and opened documents. Saved document zoom takes priority unless you override it.	Aplica-se a documentos novos e abertos. O zoom salvo no documento tem prioridade, a menos que você o substitua.
-	Text Width	Largura do texto
-	Pages per sheet	Páginas por folha
-	Booklet (left binding)	Livreto (encadernação à esquerda)
-	Booklet (right binding)	Livreto (encadernação à direita)
-	Booklets: duplex on the short edge. Blank pages are added at the end.	Livretos: impressão frente e verso pela borda curta. Páginas em branco são adicionadas no final.
-	Auto orientation	Orientação automática
-	Scale to paper size	Ajustar ao tamanho do papel
-	No Scaling	Sem dimensionamento

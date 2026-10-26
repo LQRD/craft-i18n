@@ -138,6 +138,7 @@
 	Any Letter	任意字母
 	Anyone can open this document. Encrypt it with a password to keep it private.	任何人都可以打开此文档。用密码加密可保护其隐私。
 	Anyone who opens the document will need this password.	打开文档的任何人都需要此密码。
+	Applies to new and opened documents. Saved document zoom takes priority unless you override it.	适用于新建和打开的文档。除非启用覆盖，否则优先使用文档中保存的缩放比例。
 	Apply as you type	键入时应用
 	Apply Asian line-breaking rules (kinsoku)	应用亚洲文字的断行规则（禁则）
 	Apply formatting to:	将格式应用于：
@@ -160,6 +161,7 @@
 	Atmosphere	大气
 	Attach Template	附加模板
 	Attach…	附加…
+	Auto orientation	自动方向
 	AutoCorrect	自动更正
 	AutoCorrect Options	自动更正选项
 	AutoFit	自动调整
@@ -218,6 +220,9 @@
 	Bold	加粗
 	Book	书籍
 	Book title	书名
+	Booklet (left binding)	小册子（左侧装订）
+	Booklet (right binding)	小册子（右侧装订）
+	Booklets: duplex on the short edge. Blank pages are added at the end.	小册子：沿短边双面打印。空白页将添加到末尾。
 	Bookmark	书签
 	Bookmark name:	书签名：
 	Border lines	边框线
@@ -459,6 +464,7 @@
 	Decrease Font Size	减小字号
 	Decrease Indent	减少缩进量
 	Deep	深沉
+	Default document zoom:	默认文档缩放：
 	Default tab stops:	默认制表位：
 	Define New Bullet	定义新项目符号
 	Define New Multilevel List	定义新的多级列表
@@ -659,6 +665,7 @@
 	Figure	图
 	File locations	文件位置
 	File name:	文件名:
+	File not found	找不到文件
 	File › New lists the .dotx and .dotm templates here under Personal; Save as Word Template starts here.	“文件 › 新建”在“个人”下列出此处的 .dotx 和 .dotm 模板；“另存为 Word 模板”从这里开始。
 	Fill color:	填充颜色：
 	Filling in forms	填写窗体
@@ -1140,6 +1147,7 @@
 	No Paragraph Space	无段落间距
 	No printers found. Configure a system printer or export a PDF.	未找到打印机。请在系统中配置打印机或导出 PDF。
 	No Reflection	无映像
+	No Scaling	不缩放
 	No Shadow	无阴影
 	No Soft Edges	无柔化边缘
 	No sources yet.	尚无源。
@@ -1248,6 +1256,7 @@
 	Outside border	外侧框线
 	Outside Borders	外侧框线
 	Outside:	外侧：
+	Override zoom saved in documents	覆盖文档中保存的缩放比例
 	Overtype	改写
 	Overtype (typing replaces the characters after the caret)	改写（键入的内容替换插入点后的字符）
 	Page Background	页面背景
@@ -1280,6 +1289,7 @@
 	Page\nNumber	页码
 	Pages like 1-3, 5	页码,如 1-3, 5
 	Pages of bookmark:	书签所在页：
+	Pages per sheet	每张纸的页数
 	Paper size:	纸张大小：
 	Paragraph Character	段落符号
 	Paragraph Details	段落详细信息
@@ -1530,6 +1540,7 @@
 	Saves a .dotx template in your templates folder. It shows up in File › New under Personal.	将 .dotx 模板保存到你的模板文件夹。它会显示在“文件 › 新建”的“个人”下。
 	Saving {name} was cancelled, so it is still open and nothing was lost.	已取消保存 {name}，文档仍处于打开状态，没有丢失任何内容。
 	Scale Drawing	缩放绘图
+	Scale to paper size	缩放至纸张大小
 	Scatter	散点图
 	Script	上下标
 	Scripts	Scripts
@@ -1817,6 +1828,7 @@
 	Text size	文字大小
 	Text snaps to characters	文字贴合字符网格
 	Text to display:	要显示的文字：
+	Text Width	文字宽度
 	Text Wrapping	文字环绕
 	Text:	文字：
 	Text\nBox	文本框
@@ -1955,6 +1967,7 @@
 	UPPERCASE	全部大写
 	URL	URL
 	Use an Existing List…	使用现有列表…
+	Use document zoom	使用文档的缩放比例
 	Use system setting	使用系统设置
 	Use the browser's full screen (F11)	请使用浏览器的全屏模式 (F11)
 	Use the Insert key to switch overtype on and off	用 Insert 键切换改写模式
@@ -2058,16 +2071,3 @@
 	{width} × {height} pixels	{width} × {height} 像素
 	{words} words	{words} 个字
 	“{text}” ({row}, {series}) isn't a number.	“{text}”（{row}，{series}）不是数字。
-	File not found	找不到文件
-	Default document zoom:	默认文档缩放：
-	Use document zoom	使用文档的缩放比例
-	Override zoom saved in documents	覆盖文档中保存的缩放比例
-	Applies to new and opened documents. Saved document zoom takes priority unless you override it.	适用于新建和打开的文档。除非启用覆盖，否则优先使用文档中保存的缩放比例。
-	Text Width	文字宽度
-	Pages per sheet	每张纸的页数
-	Booklet (left binding)	小册子（左侧装订）
-	Booklet (right binding)	小册子（右侧装订）
-	Booklets: duplex on the short edge. Blank pages are added at the end.	小册子：沿短边双面打印。空白页将添加到末尾。
-	Auto orientation	自动方向
-	Scale to paper size	缩放至纸张大小
-	No Scaling	不缩放

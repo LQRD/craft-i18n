@@ -10,6 +10,7 @@
 # Clean room: every entry was written from the plain meaning of the English text in ordinary
 # computing vocabulary. No other product's localisation, string table or translated UI was
 # consulted or copied; add entries the same way.
+# WordCraft preferences and print sheet controls; AI-assisted, native-speaker review pending.
 
 	% of all commits	ყველა კომიტის %
 	(All)	(ყველა)
@@ -184,6 +185,7 @@
 	Anyone can open this document. Encrypt it with a password to keep it private.	ამ დოკუმენტის გახსნა ნებისმიერს შეუძლია. დაშიფრეთ პაროლით, რომ დაიცვათ.
 	Anyone who opens the document will need this password.	დოკუმენტის გამხსნელ ყველას ეს პაროლი დასჭირდება.
 	APA	APA
+	Applies to new and opened documents. Saved document zoom takes priority unless you override it.	ვრცელდება ახალ და გახსნილ დოკუმენტებზე. დოკუმენტში შენახულ მასშტაბს უპირატესობა ენიჭება, თუ მას არ ჩაანაცვლებთ.
 	Apply	გამოყენება
 	Apply as you type	ავტომატურად აკრეფისას
 	Apply Asian line-breaking rules (kinsoku)	აზიური გადატანის წესების გამოყენება (kinsoku)
@@ -218,6 +220,7 @@
 	Author	ავტორი
 	Auto	ავტომატური
 	Auto ({percent}%)	ავტომატური ({percent}%)
+	Auto orientation	ავტომატური ორიენტაცია
 	AutoCorrect	ავტოშესწორება
 	AutoCorrect Options	ავტოშესწორების პარამეტრები
 	AutoFit	ავტომორგება
@@ -291,6 +294,9 @@
 	Book	წიგნი
 	Book Title	წიგნის სათაური
 	Book title	წიგნის სათაური
+	Booklet (left binding)	ბუკლეტი (მარცხენა აკინძვა)
+	Booklet (right binding)	ბუკლეტი (მარჯვენა აკინძვა)
+	Booklets: duplex on the short edge. Blank pages are added at the end.	ბუკლეტები: ორმხრივი ბეჭდვა მოკლე კიდეზე გადაბრუნებით. ცარიელი გვერდები ემატება ბოლოში.
 	Bookmark	სანიშნე
 	Bookmark name:	სანიშნის სახელი:
 	Border lines	ჩარჩოს ხაზები
@@ -639,6 +645,7 @@
 	Decrease Indent	შეწევის შემცირება
 	Deep	ღრმა
 	Default	ნაგულისხმევი
+	Default document zoom:	დოკუმენტის ნაგულისხმევი მასშტაბი:
 	Default Paragraph Font	აბზაცის ნაგულისხმევი შრიფტი
 	Default tab stops:	ნაგულისხმევი ტაბულაციის გაჩერებები:
 	Define New Bullet	ახალი ბურთულის განსაზღვრა
@@ -916,6 +923,7 @@
 	File	ფაილი
 	File locations	ფაილების მდებარეობა
 	File name:	ფაილის სახელი:
+	File not found	ფაილი ვერ მოიძებნა
 	File › New lists the .dotx and .dotm templates here under Personal; Save as Word Template starts here.	ფაილი › ახალი აქ არსებულ .dotx და .dotm შაბლონებს „პირადში“ აჩვენებს; „Word-ის შაბლონად შენახვა“ აქედან იწყება.
 	Fill	შევსება
 	Fill color:	შევსების ფერი:
@@ -1432,7 +1440,7 @@ template	Letter	წერილი
 	lowercase	პატარა ასოები
 	Lum:	სიკაშკ.:
 	Macros	მაკროსები
-	Made from the author and year when empty	ცარიელის შემთხვევაში იქმნება ავტორისა და წლისგან
+	Made from the author and year when empty	ცარიელისას — ავტორი და წელი
 	Magazine or newspaper article	ჟურნალის ან გაზეთის სტატია
 	Mail Merge	წერილების შერწყმა
 	Mailings	დაგზავნა
@@ -1599,10 +1607,11 @@ template	Letter	წერილი
 	No Paragraph Space	აბზაცთაშორისი ინტერვალის გარეშე
 	No printers found. Configure a system printer or export a PDF.	პრინტერი ვერ მოიძებნა. დააყენეთ სისტემის პრინტერი ან გააკეთეთ PDF ექსპორტი.
 	No Reflection	არეკვლის გარეშე
+	No Scaling	მასშტაბირების გარეშე
 	No Shadow	ჩრდილის გარეშე
 	No Soft Edges	რბილი კიდეების გარეშე
 	No sources yet.	წყაროები ჯერ არ არის.
-	No Spacing	უინტერვალოდ
+	No Spacing	მჭიდრო
 	No spelling dictionary for {language} is installed, so it isn't checked. WordCraft looks for the Hunspell dictionary {name} in the WORDCRAFT_DICTIONARIES folder and in the usual system locations.	მართლწერის ლექსიკონი ({language}) დაყენებული არ არის, ამიტომ ტექსტი არ მოწმდება. WordCraft Hunspell-ის ლექსიკონს {name} ეძებს WORDCRAFT_DICTIONARIES საქაღალდეში და სისტემის ჩვეულებრივ მდებარეობებში.
 	No templates match your search.	ძიების შესაბამისი შაბლონი არ მოიძებნა.
 	No Transform	გარდაქმნის გარეშე
@@ -1612,7 +1621,7 @@ template	Letter	წერილი
 	Nonbreaking Hyphen	უწყვეტი დეფისი
 	Nonbreaking Space	უწყვეტი შორისი
 	None	არცერთი
-	Normal	ჩვეულებრივი
+	Normal	ძირითადი
 	Normal  {size} all	ჩვეულებრივი  {size} ყოველ მხარეს
 	Normal Indent	ჩვეულებრივი შეწევა
 	Normal probability density	ნორმალური განაწილების სიმკვრივე
@@ -1631,7 +1640,7 @@ template	Letter	წერილი
 	Not saved	არ არის შენახული
 	Not saved yet	ჯერ არ არის შენახული
 	Not set	არ არის დაყენებული
-	Not set: the system's usual places	არ არის მითითებული: სისტემის ჩვეულებრივი მდებარეობები
+	Not set: the system's usual places	მითითებული არ არის (სისტემური ადგილები)
 	Not used by any command	არცერთი ბრძანება არ იყენებს
 	Not {name}	არა {name}
 	Nothing	არაფერი
@@ -1735,6 +1744,7 @@ template	Letter	წერილი
 	Overbar	ზედა ხაზი
 	Overbars and Underbars	ზედა და ქვედა ხაზები
 	Overbrace	ზედა ფიგურული ფრჩხილი
+	Override zoom saved in documents	დოკუმენტებში შენახული მასშტაბის ჩანაცვლება
 	Overtype	გადაწერა
 	Overtype (typing replaces the characters after the caret)	გადაწერა (აკრეფილი ტექსტი კურსორის შემდეგ სიმბოლოებს ანაცვლებს)
 	Page	გვერდი
@@ -1746,6 +1756,7 @@ template	Letter	წერილი
 	Page break before	გვერდის გამყოფი წინ
 	Page Breaks	გვერდის გამყოფები
 	Page Color	გვერდის ფერი
+	Page color	გვერდის ფერი
 	Page display	გვერდების ჩვენება
 	Page Down	გვერდით ქვემოთ
 	Page image (*.png)	გვერდის სურათი (*.png)
@@ -1770,6 +1781,7 @@ template	Letter	წერილი
 	Pages	გვერდები
 	Pages like 1-3, 5	გვერდები, მაგ. 1-3, 5
 	Pages of bookmark:	სანიშნის გვერდები:
+	Pages per sheet	გვერდები ერთ ფურცელზე
 	Paper	ქაღალდი
 	Paper size:	ფურცლის ზომა:
 	Paragraph	აბზაცი
@@ -1926,6 +1938,7 @@ template	Letter	წერილი
 	Reading Highlight	წაკითხვისას გამოკვეთა
 	Reading Line Spacing	კითხვისას სტრიქონთა დაშორება
 	Reading Mode	კითხვის რეჟიმი
+	Reading Page Color	კითხვის გვერდის ფერი
 	Reading Speed	კითხვის სიჩქარე
 	Reading Text Size	კითხვისას ტექსტის ზომა
 	Reads the clipboard's rich text and keeps its formatting.	კითხულობს ბუფერის ფორმატირებულ ტექსტს (RTF) და ინარჩუნებს მის ფორმატირებას.
@@ -2098,6 +2111,7 @@ template	Letter	წერილი
 	Saving {name} was cancelled, so it is still open and nothing was lost.	შენახვა გაუქმდა ({name}): დოკუმენტი ისევ ღიაა და არაფერი დაკარგულა.
 	Scale	მასშტაბი
 	Scale Drawing	ნახატის მასშტაბირება
+	Scale to paper size	ქაღალდის ზომაზე მორგება
 	Scatter	წერტილოვანი
 	Script	სკრიპტი
 	Scripts	სკრიპტები
@@ -2124,7 +2138,7 @@ template	Letter	წერილი
 	select a chart first	ჯერ მონიშნეთ დიაგრამა
 	select a connector first	ჯერ მონიშნეთ შემაერთებელი
 	select a drawing canvas first	ჯერ მონიშნეთ სახატავი ტილო
-	select a floating picture or shape first	ჯერ მონიშნეთ მცურავი სურათი ან ფიგურა
+	select a floating picture or shape first	ჯერ მონიშნეთ თავისუფლად განთავსებული სურათი ან ფიგურა
 	select a group first	ჯერ მონიშნეთ ჯგუფი
 	select a picture first	ჯერ მონიშნეთ სურათი
 	select a picture or shape first	ჯერ მონიშნეთ სურათი ან ფიგურა
@@ -2322,8 +2336,10 @@ template	Letter	წერილი
 	Spacing	ინტერვალი
 	Spacing (pt):	ინტერვალი (პტ):
 	Spacing:	ინტერვალი:
+	Spanish (Latin America)	ესპანური (ლათინური ამერიკა)
 	Spanish (Mexico)	ესპანური (მექსიკა)
 	Spanish (Spain)	ესპანური (ესპანეთი)
+	Spanish (Uruguay)	ესპანური (ურუგვაი)
 	Sparse Matrices	იშვიათი მატრიცები
 	Special	სპეციალური
 	Special Characters	სპეციალური სიმბოლოები
@@ -2483,6 +2499,7 @@ template	Letter	წერილი
 	Text size	ტექსტის ზომა
 	Text snaps to characters	ტექსტის მიბმა სიმბოლოებზე
 	Text to display:	საჩვენებელი ტექსტი:
+	Text Width	ტექსტის სიგანე
 	Text Wrapping	ტექსტით გარშემოვლება
 	Text:	ტექსტი:
 	Text\nBox	ტექსტური\nბლოკი
@@ -2512,7 +2529,7 @@ template	Letter	წერილი
 	The spelling and grammar check is complete.	მართლწერისა და გრამატიკის შემოწმება დასრულდა.
 	the Spike is empty	კრებული ცარიელია
 	The system file dialog isn't available, so WordCraft shows its own. To get the system dialog, install a file chooser portal (such as xdg-desktop-portal-gtk) or zenity.	სისტემის ფაილის ფანჯარა მიუწვდომელია, ამიტომ WordCraft საკუთარს აჩვენებს. სისტემის ფანჯრისთვის დააინსტალირეთ ფაილის არჩევის პორტალი (მაგალითად, xdg-desktop-portal-gtk) ან zenity.
-	The text at the insertion point is marked Do not check spelling or grammar.	კურსორთან მდებარე ტექსტზე ჩართულია „მართლწერისა და გრამატიკის შემოწმების გარეშე“.
+	The text at the insertion point is marked Do not check spelling or grammar.	კურსორთან მდებარე ტექსტი მონიშნულია, როგორც „მართლწერისა და გრამატიკის შემოწმების გარეშე“.
 	The time right now	მიმდინარე დრო
 	Theme Colors	თემის ფერები
 	Theme Fonts	თემის შრიფტები
@@ -2669,6 +2686,7 @@ preview	Title	სათაური
 	Use "a" before a consonant sound	თანხმოვანი ბგერის წინ გამოიყენეთ „a“
 	Use "an" before a vowel sound	ხმოვანი ბგერის წინ გამოიყენეთ „an“
 	Use an Existing List…	არსებული სიის გამოყენება…
+	Use document zoom	დოკუმენტის მასშტაბის გამოყენება
 	Use system setting	სისტემის პარამეტრის მიხედვით
 	Use the browser's full screen (F11)	გამოიყენეთ ბრაუზერის სრულეკრანიანი რეჟიმი (F11)
 	Use the Insert key to switch overtype on and off	გადაწერის ჩართვა და გამორთვა Insert კლავიშით
@@ -2800,18 +2818,3 @@ preview	Title	სათაური
 	✓ None	✓ არცერთი
 	➕ New comment	➕ ახალი კომენტარი
 	📂  Browse…	📂  არჩევა…
-
-# WordCraft preferences and print sheet controls; AI-assisted, native-speaker review pending.
-	Applies to new and opened documents. Saved document zoom takes priority unless you override it.	ვრცელდება ახალ და გახსნილ დოკუმენტებზე. დოკუმენტში შენახულ მასშტაბს უპირატესობა ენიჭება, თუ მას არ ჩაანაცვლებთ.
-	Auto orientation	ავტომატური ორიენტაცია
-	Booklet (left binding)	ბუკლეტი (მარცხენა აკინძვა)
-	Booklet (right binding)	ბუკლეტი (მარჯვენა აკინძვა)
-	Booklets: duplex on the short edge. Blank pages are added at the end.	ბუკლეტები: ორმხრივი ბეჭდვა მოკლე კიდეზე გადაბრუნებით. ცარიელი გვერდები ემატება ბოლოში.
-	Default document zoom:	დოკუმენტის ნაგულისხმევი მასშტაბი:
-	File not found	ფაილი ვერ მოიძებნა
-	No Scaling	მასშტაბირების გარეშე
-	Override zoom saved in documents	დოკუმენტებში შენახული მასშტაბის ჩანაცვლება
-	Pages per sheet	გვერდები ერთ ფურცელზე
-	Scale to paper size	ქაღალდის ზომაზე მორგება
-	Text Width	ტექსტის სიგანე
-	Use document zoom	დოკუმენტის მასშტაბის გამოყენება

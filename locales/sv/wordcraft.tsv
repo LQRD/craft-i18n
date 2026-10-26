@@ -162,6 +162,7 @@
 	Anyone can open this document. Encrypt it with a password to keep it private.	Vem som helst kan öppna det här dokumentet. Kryptera det med ett lösenord för att hålla det privat.
 	Anyone who opens the document will need this password.	Alla som öppnar dokumentet behöver det här lösenordet.
 	APA	APA
+	Applies to new and opened documents. Saved document zoom takes priority unless you override it.	Gäller nya och öppnade dokument. Dokumentets sparade zoom har företräde om du inte åsidosätter den.
 	Apply as you type	Använd medan du skriver
 	Apply Asian line-breaking rules (kinsoku)	Använd asiatiska regler för radbrytning (kinsoku)
 	Apply formatting to:	Använd formatering på:
@@ -184,6 +185,7 @@
 	Atmosphere	Atmosfär
 	Attach Template	Koppla mall
 	Attach…	Koppla…
+	Auto orientation	Automatisk orientering
 	AutoCorrect	Autokorrigering
 	AutoCorrect Options	Alternativ för autokorrigering
 	AutoFit	Autoanpassa
@@ -251,6 +253,9 @@
 	Book	Bok
 	Book Title	Boktitel
 	Book title	Boktitel
+	Booklet (left binding)	Häfte (bindning till vänster)
+	Booklet (right binding)	Häfte (bindning till höger)
+	Booklets: duplex on the short edge. Blank pages are added at the end.	Häften: dubbelsidig utskrift längs kortsidan. Tomma sidor läggs till i slutet.
 	Bookmark	Bokmärke
 	Bookmark name:	Bokmärkesnamn:
 	Border lines	Kantlinjer
@@ -540,6 +545,7 @@
 	Decorative objects only add visual interest: screen readers skip them.	Dekorativa objekt är bara utsmyckning: skärmläsare hoppar över dem.
 	Decrease Indent	Minska indraget
 	Deep	Djup
+	Default document zoom:	Standardzoom för dokument:
 	Default Paragraph Font	Standardtypsnitt för stycke
 	Default tab stops:	Standardtabbstopp:
 	Define New Bullet	Definiera ny punkt
@@ -773,6 +779,7 @@
 	Figure	Figur
 	File locations	Filplatser
 	File name:	Filnamn:
+	File not found	Filen hittades inte
 	File › New lists the .dotx and .dotm templates here under Personal; Save as Word Template starts here.	Arkiv › Ny visar .dotx- och .dotm-mallarna härifrån under Personliga; Spara som Word-mall börjar här.
 	Fill color:	Fyllningsfärg:
 	Filling in forms	Ifyllning av formulär
@@ -1339,6 +1346,7 @@ template	Letter	Brev
 	No Paragraph Space	Inget styckeavstånd
 	No printers found. Configure a system printer or export a PDF.	Inga skrivare hittades. Lägg till en skrivare i systemet eller exportera en PDF.
 	No Reflection	Ingen spegling
+	No Scaling	Ingen skalning
 	No Shadow	Ingen skugga
 	No Soft Edges	Inga mjuka kanter
 	No sources yet.	Inga källor än.
@@ -1458,6 +1466,7 @@ template	Letter	Brev
 	Overbar	Överstreck
 	Overbars and Underbars	Över- och understreck
 	Overbrace	Klammer ovanför
+	Override zoom saved in documents	Åsidosätt zoom som sparats i dokument
 	Overtype	Överskrivning
 	Overtype (typing replaces the characters after the caret)	Överskrivning (det du skriver ersätter tecknen efter markören)
 	Page Background	Sidbakgrund
@@ -1490,6 +1499,7 @@ template	Letter	Brev
 	Page\nNumber	Sid-\nnummer
 	Pages like 1-3, 5	Sidor som 1-3, 5
 	Pages of bookmark:	Bokmärkets sidor:
+	Pages per sheet	Sidor per ark
 	Paper size:	Pappersstorlek:
 	Paragraph Character	Stycketecken
 	Paragraph Details	Styckedetaljer
@@ -1754,6 +1764,7 @@ template	Letter	Brev
 	Saves a .dotx template in your templates folder. It shows up in File › New under Personal.	Sparar en .dotx-mall i din mallmapp. Den visas i Arkiv › Ny under Personliga.
 	Saving {name} was cancelled, so it is still open and nothing was lost.	Sparandet av {name} avbröts, så dokumentet är fortfarande öppet och inget gick förlorat.
 	Scale Drawing	Skala ritningen
+	Scale to paper size	Anpassa till pappersstorlek
 	Scatter	Punktdiagram
 	Script	Index
 	Scripts	Index och exponenter
@@ -2083,6 +2094,7 @@ template	Letter	Brev
 	Text size	Textstorlek
 	Text snaps to characters	Texten fästs mot tecken
 	Text to display:	Text som visas:
+	Text Width	Textbredd
 	Text Wrapping	Textombrytning
 	Text\nBox	Text-\nruta
 	Text\nDirection	Text-\nriktning
@@ -2246,6 +2258,7 @@ preview	Title	Titel
 	Use "a" before a consonant sound	Använd ”a” före ett konsonantljud
 	Use "an" before a vowel sound	Använd ”an” före ett vokalljud
 	Use an Existing List…	Använd en befintlig lista…
+	Use document zoom	Använd dokumentets zoom
 	Use system setting	Använd systeminställningen
 	Use the browser's full screen (F11)	Använd webbläsarens helskärmsläge (F11)
 	Use the Insert key to switch overtype on and off	Använd Insert-tangenten för att slå på och av överskrivning
@@ -2357,16 +2370,3 @@ preview	Title	Titel
 	✓ None	✓ Ingen
 	➕ New comment	➕ Ny kommentar
 	📂  Browse…	📂  Bläddra…
-	File not found	Filen hittades inte
-	Default document zoom:	Standardzoom för dokument:
-	Use document zoom	Använd dokumentets zoom
-	Override zoom saved in documents	Åsidosätt zoom som sparats i dokument
-	Applies to new and opened documents. Saved document zoom takes priority unless you override it.	Gäller nya och öppnade dokument. Dokumentets sparade zoom har företräde om du inte åsidosätter den.
-	Text Width	Textbredd
-	Pages per sheet	Sidor per ark
-	Booklet (left binding)	Häfte (bindning till vänster)
-	Booklet (right binding)	Häfte (bindning till höger)
-	Booklets: duplex on the short edge. Blank pages are added at the end.	Häften: dubbelsidig utskrift längs kortsidan. Tomma sidor läggs till i slutet.
-	Auto orientation	Automatisk orientering
-	Scale to paper size	Anpassa till pappersstorlek
-	No Scaling	Ingen skalning

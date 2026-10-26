@@ -218,6 +218,7 @@
 	Author	Autor
 	Auto	Automat
 	Auto ({percent}%)	Automat ({percent}%)
+	Auto orientation	Orientare automată
 	AutoCorrect	Corectare automată
 	AutoCorrect Options	Opțiuni de corectare automată
 	AutoFit	Potrivire automată
@@ -291,6 +292,9 @@
 	Book	Carte
 	Book Title	Titlul cărții
 	Book title	Titlul cărții
+	Booklet (left binding)	Broșură (legare la stânga)
+	Booklet (right binding)	Broșură (legare la dreapta)
+	Booklets: duplex on the short edge. Blank pages are added at the end.	Broșuri: imprimare față-verso pe marginea scurtă. Paginile goale sunt adăugate la sfârșit.
 	Bookmark	Marcaj
 	Bookmark name:	Nume marcaj:
 	Border lines	Linii de bordură
@@ -1598,6 +1602,7 @@ template	Letter	Scrisoare
 	No Paragraph Space	Fără spațiu între paragrafe
 	No printers found. Configure a system printer or export a PDF.	Nu s-au găsit imprimante. Configurează o imprimantă de sistem sau exportă un PDF.
 	No Reflection	Fără reflexie
+	No Scaling	Fără scalare
 	No Shadow	Fără umbră
 	No Soft Edges	Fără margini estompate
 	No sources yet.	Nicio sursă încă.
@@ -1769,6 +1774,7 @@ template	Letter	Scrisoare
 	Pages	Pagini
 	Pages like 1-3, 5	Pagini precum 1-3, 5
 	Pages of bookmark:	Paginile marcajului:
+	Pages per sheet	Pagini pe foaie
 	Paper	Hârtie
 	Paper size:	Dimensiune hârtie:
 	Paragraph	Paragraf
@@ -2098,6 +2104,7 @@ template	Letter	Scrisoare
 	Saving {name} was cancelled, so it is still open and nothing was lost.	Salvarea fișierului {name} a fost anulată, deci rămâne deschis și nu s-a pierdut nimic.
 	Scale	Scară
 	Scale Drawing	Desen la scară
+	Scale to paper size	Ajustare la dimensiunea hârtiei
 	Scatter	Dispersie
 	Script	Script
 	Scripts	Scripturi
@@ -2798,10 +2805,3 @@ preview	Title	Titlu
 	✓ None	✓ Niciunul
 	➕ New comment	➕ Comentariu nou
 	📂  Browse…	📂  Răsfoire…
-	Pages per sheet	Pagini pe foaie
-	Booklet (left binding)	Broșură (legare la stânga)
-	Booklet (right binding)	Broșură (legare la dreapta)
-	Booklets: duplex on the short edge. Blank pages are added at the end.	Broșuri: imprimare față-verso pe marginea scurtă. Paginile goale sunt adăugate la sfârșit.
-	Auto orientation	Orientare automată
-	Scale to paper size	Ajustare la dimensiunea hârtiei
-	No Scaling	Fără scalare

@@ -133,6 +133,7 @@
 	Any Letter	Било које слово
 	Anyone can open this document. Encrypt it with a password to keep it private.	Свако може да отвори овај документ. Шифрујте га лозинком да би остао приватан.
 	Anyone who opens the document will need this password.	Свакоме ко отвори документ биће потребна ова лозинка.
+	Applies to new and opened documents. Saved document zoom takes priority unless you override it.	Примењује се на нове и отворене документе. Сачувано увећање документа има предност осим ако га замените.
 	Apply as you type	Примени док куцаш
 	Apply Asian line-breaking rules (kinsoku)	Примени азијска правила прелома редова (кинсоку)
 	Apply formatting to:	Примени форматирање на:
@@ -154,6 +155,7 @@
 	Atmosphere	Атмосфера
 	Attach Template	Приложи шаблон
 	Attach…	Приложи…
+	Auto orientation	Аутоматска оријентација
 	AutoCorrect	Аутоматска исправка
 	AutoCorrect Options	Опције аутоматске исправке
 	AutoFit	Аутоматско уклапање
@@ -210,6 +212,9 @@
 	Body Text	Основни текст
 	Book	Књига
 	Book title	Наслов књиге
+	Booklet (left binding)	Књижица (повез лево)
+	Booklet (right binding)	Књижица (повез десно)
+	Booklets: duplex on the short edge. Blank pages are added at the end.	Књижице: двострано штампање по краћој ивици. Празне странице се додају на крају.
 	Bookmark	Обележивач
 	Bookmark name:	Назив обележивача:
 	Border lines	Линије ивица
@@ -440,6 +445,7 @@
 	Decorative objects only add visual interest: screen readers skip them.	Декоративни објекти само доприносе изгледу: читачи екрана их прескачу.
 	Decrease Indent	Смањи увлачење
 	Deep	Дубок
+	Default document zoom:	Подразумевано увећање документа:
 	Default tab stops:	Подразумевани табулатори:
 	Define New Bullet	Дефиниши нову ознаку
 	Define New Multilevel List	Дефиниши нову вишенивоску листу
@@ -630,6 +636,7 @@
 	Figure	Слика
 	File locations	Локације датотека
 	File name:	Име датотеке:
+	File not found	Датотека није пронађена
 	File › New lists the .dotx and .dotm templates here under Personal; Save as Word Template starts here.	Фајл › Ново приказује .dotx и .dotm шаблоне одавде под Лични; Сачувај као Word шаблон почиње овде.
 	Fill color:	Боја попуне:
 	Filling in forms	Попуњавање образаца
@@ -1090,6 +1097,7 @@
 	No Paragraph Space	Без размака пасуса
 	No printers found. Configure a system printer or export a PDF.	Нису пронађени штампачи. Подесите системски штампач или извезите PDF.
 	No Reflection	Без одраза
+	No Scaling	Без скалирања
 	No Shadow	Без сенке
 	No Soft Edges	Без меких ивица
 	No sources yet.	Још нема извора.
@@ -1194,6 +1202,7 @@
 	Outside border	Спољна ивица
 	Outside Borders	Спољашње ивице
 	Outside:	Споља:
+	Override zoom saved in documents	Замени увећање сачувано у документима
 	Overtype	Преписивање
 	Overtype (typing replaces the characters after the caret)	Преписивање (откуцано замењује знакове после курсора)
 	Page Background	Позадина стране
@@ -1226,6 +1235,7 @@
 	Page\nNumber	Број\nстране
 	Pages like 1-3, 5	Странице попут 1-3, 5
 	Pages of bookmark:	Странице обележивача:
+	Pages per sheet	Страница по листу
 	Paper size:	Величина папира:
 	Paragraph Character	Симбол пасуса
 	Paragraph Details	Детаљи пасуса
@@ -1466,6 +1476,7 @@
 	Saves a .dotx template in your templates folder. It shows up in File › New under Personal.	Чува .dotx шаблон у фасцикли шаблона. Приказује се у Фајл › Ново под Лични.
 	Saving {name} was cancelled, so it is still open and nothing was lost.	Чување {name} је отказано. Документ је и даље отворен и ништа није изгубљено.
 	Scale Drawing	Скалирај цртеж
+	Scale to paper size	Прилагоди величини папира
 	Scatter	Распршени
 	Script	Индекс
 	Scroll ribbon left	Помери траку лево
@@ -1740,6 +1751,7 @@
 	Text size	Величина текста
 	Text snaps to characters	Текст се поравнава са знаковима
 	Text to display:	Текст за приказ:
+	Text Width	Ширина текста
 	Text Wrapping	Преламање текста
 	Text\nBox	Оквир\nза текст
 	Text\nDirection	Смер\nтекста
@@ -1870,6 +1882,7 @@
 	Update to Match Selection	Ажурирај према избору
 	URL	URL
 	Use an Existing List…	Користи постојећу листу…
+	Use document zoom	Користи увећање из документа
 	Use system setting	Према подешавању система
 	Use the browser's full screen (F11)	Користите приказ преко целог екрана у прегледачу (F11)
 	Use the Insert key to switch overtype on and off	Тастер Insert укључује и искључује преписивање
@@ -1966,16 +1979,3 @@
 	{width} × {height} pixels	{width} × {height} пиксела
 	{words} words	{words} речи
 	“{text}” ({row}, {series}) isn't a number.	„{text}” ({row}, {series}) није број.
-	File not found	Датотека није пронађена
-	Default document zoom:	Подразумевано увећање документа:
-	Use document zoom	Користи увећање из документа
-	Override zoom saved in documents	Замени увећање сачувано у документима
-	Applies to new and opened documents. Saved document zoom takes priority unless you override it.	Примењује се на нове и отворене документе. Сачувано увећање документа има предност осим ако га замените.
-	Text Width	Ширина текста
-	Pages per sheet	Страница по листу
-	Booklet (left binding)	Књижица (повез лево)
-	Booklet (right binding)	Књижица (повез десно)
-	Booklets: duplex on the short edge. Blank pages are added at the end.	Књижице: двострано штампање по краћој ивици. Празне странице се додају на крају.
-	Auto orientation	Аутоматска оријентација
-	Scale to paper size	Прилагоди величини папира
-	No Scaling	Без скалирања

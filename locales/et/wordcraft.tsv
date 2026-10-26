@@ -133,6 +133,7 @@
 	Any Letter	Suvaline täht
 	Anyone can open this document. Encrypt it with a password to keep it private.	Seda dokumenti saab avada igaüks. Privaatsena hoidmiseks krüpti see parooliga.
 	Anyone who opens the document will need this password.	Igaüks, kes dokumendi avab, vajab seda parooli.
+	Applies to new and opened documents. Saved document zoom takes priority unless you override it.	Kehtib uutele ja avatavatele dokumentidele. Dokumendis salvestatud suum on eelistatud, kui seda ei asendata.
 	Apply as you type	Rakenda tippimise ajal
 	Apply Asian line-breaking rules (kinsoku)	Rakenda Aasia reamurdmisreegleid (kinsoku)
 	Apply formatting to:	Rakenda vormindus:
@@ -154,6 +155,7 @@
 	Atmosphere	Atmosfäär
 	Attach Template	Manusta mall
 	Attach…	Manusta…
+	Auto orientation	Automaatne suund
 	AutoCorrect	Automaatparandus
 	AutoCorrect Options	Automaatparanduse valikud
 	AutoFit	Automaatne sobitus
@@ -211,6 +213,9 @@
 	Book	Raamat
 	Book Title	Raamatu pealkiri
 	Book title	Raamatu pealkiri
+	Booklet (left binding)	Brošüür (köide vasakul)
+	Booklet (right binding)	Brošüür (köide paremal)
+	Booklets: duplex on the short edge. Blank pages are added at the end.	Brošüürid: kahepoolne printimine mööda lühikest serva. Tühjad leheküljed lisatakse lõppu.
 	Bookmark	Järjehoidja
 	Bookmark name:	Järjehoidja nimi:
 	Border lines	Äärisjooned
@@ -441,6 +446,7 @@
 	Decorative objects only add visual interest: screen readers skip them.	Dekoratiivsed objektid lisavad ainult visuaalset huvi: ekraanilugerid jätavad need vahele.
 	Decrease Indent	Vähenda taanet
 	Deep	Sügav
+	Default document zoom:	Dokumendi vaikesuum:
 	Default tab stops:	Vaikimisi tabelduskohad:
 	Define New Bullet	Määra uus täpitähis
 	Define New Multilevel List	Uue mitmetasemelise loendi määratlemine
@@ -634,6 +640,7 @@
 	Figure	Joonis
 	File locations	Failide asukohad
 	File name:	Faili nimi:
+	File not found	Faili ei leitud
 	File › New lists the .dotx and .dotm templates here under Personal; Save as Word Template starts here.	Fail › Uus loetleb siinsed .dotx- ja .dotm-mallid jaotises Isiklik; Salvesta Wordi mallina alustab siit.
 	Fill color:	Täitevärv:
 	Filling in forms	Vormide täitmine
@@ -1101,6 +1108,7 @@
 	No Paragraph Space	Lõiguvaheta
 	No printers found. Configure a system printer or export a PDF.	Printereid ei leitud. Seadista süsteemis printer või ekspordi PDF.
 	No Reflection	Peegelduseta
+	No Scaling	Ilma mastaapimiseta
 	No Shadow	Varjuta
 	No Soft Edges	Pehmete servadeta
 	No sources yet.	Allikaid veel pole.
@@ -1206,6 +1214,7 @@
 	Outside border	Väliääris
 	Outside Borders	Välisäärised
 	Outside:	Välimine:
+	Override zoom saved in documents	Asenda dokumentides salvestatud suum
 	Overtype	Ülekirjutus
 	Overtype (typing replaces the characters after the caret)	Ülekirjutus (kirjutatu asendab kursori järel olevad märgid)
 	Page Background	Lehe taust
@@ -1238,6 +1247,7 @@
 	Page\nNumber	Lehekülje-\nnumber
 	Pages like 1-3, 5	Leheküljed, nt 1-3, 5
 	Pages of bookmark:	Järjehoidja leheküljed:
+	Pages per sheet	Lehekülgi lehel
 	Paper size:	Paberi suurus:
 	Paragraph Character	Lõigu sümbol
 	Paragraph Details	Lõigu üksikasjad
@@ -1479,6 +1489,7 @@
 	Saves a .dotx template in your templates folder. It shows up in File › New under Personal.	Salvestab .dotx-malli teie mallide kausta. See kuvatakse jaotises Fail › Uus all Isiklik.
 	Saving {name} was cancelled, so it is still open and nothing was lost.	Faili {name} salvestamine tühistati, see on endiselt avatud ja midagi ei läinud kaotsi.
 	Scale Drawing	Muuda joonise mõõtkava
+	Scale to paper size	Sobita paberi suurusega
 	Scatter	Hajuvus
 	Script	Indeks
 	Scroll ribbon left	Keri linti vasakule
@@ -1756,6 +1767,7 @@
 	Text size	Teksti suurus
 	Text snaps to characters	Tekst joondub märkide ruudustikku
 	Text to display:	Kuvatav tekst:
+	Text Width	Teksti laius
 	Text Wrapping	Tekstimähkimine
 	Text\nBox	Teksti-\nväli
 	Text\nDirection	Teksti\nsuund
@@ -1890,6 +1902,7 @@
 	Update to Match Selection	Uuenda valiku järgi
 	URL	URL
 	Use an Existing List…	Kasuta olemasolevat loendit…
+	Use document zoom	Kasuta dokumendi suumi
 	Use system setting	Kasuta süsteemi seadistust
 	Use the browser's full screen (F11)	Kasutage brauseri täisekraani (F11)
 	Use the Insert key to switch overtype on and off	Kasuta Insert-klahvi ülekirjutuse sisse- ja väljalülitamiseks
@@ -1986,16 +1999,3 @@
 	{width} × {height} pixels	{width} × {height} pikslit
 	{words} words	Sõnu: {words}
 	“{text}” ({row}, {series}) isn't a number.	„{text}” ({row}, {series}) ei ole arv.
-	File not found	Faili ei leitud
-	Default document zoom:	Dokumendi vaikesuum:
-	Use document zoom	Kasuta dokumendi suumi
-	Override zoom saved in documents	Asenda dokumentides salvestatud suum
-	Applies to new and opened documents. Saved document zoom takes priority unless you override it.	Kehtib uutele ja avatavatele dokumentidele. Dokumendis salvestatud suum on eelistatud, kui seda ei asendata.
-	Text Width	Teksti laius
-	Pages per sheet	Lehekülgi lehel
-	Booklet (left binding)	Brošüür (köide vasakul)
-	Booklet (right binding)	Brošüür (köide paremal)
-	Booklets: duplex on the short edge. Blank pages are added at the end.	Brošüürid: kahepoolne printimine mööda lühikest serva. Tühjad leheküljed lisatakse lõppu.
-	Auto orientation	Automaatne suund
-	Scale to paper size	Sobita paberi suurusega
-	No Scaling	Ilma mastaapimiseta

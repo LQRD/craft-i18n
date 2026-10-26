@@ -163,6 +163,7 @@
 	Anyone can open this document. Encrypt it with a password to keep it private.	Всеки може да отвори този документ. Шифровайте го с парола, за да остане поверителен.
 	Anyone who opens the document will need this password.	Всеки, който отваря документа, ще се нуждае от тази парола.
 	APA	APA
+	Applies to new and opened documents. Saved document zoom takes priority unless you override it.	Прилага се за нови и отворени документи. Запазеният в документа мащаб има предимство, освен ако не го замените.
 	Apply as you type	Прилагане при въвеждане
 	Apply Asian line-breaking rules (kinsoku)	Прилагане на азиатските правила за пренасяне на редове (kinsoku)
 	Apply Character Style	Прилагане на знаков стил
@@ -187,6 +188,7 @@
 	Atmosphere	Атмосфера
 	Attach Template	Прикачване на шаблон
 	Attach…	Прикачване…
+	Auto orientation	Автоматична ориентация
 	AutoCorrect	Автокорекция
 	AutoCorrect Options	Опции за автокорекция
 	AutoFit	Автопобиране
@@ -253,6 +255,9 @@
 	Book	Книга
 	Book Title	Заглавие на книга
 	Book title	Заглавие на книгата
+	Booklet (left binding)	Брошура (подвързване отляво)
+	Booklet (right binding)	Брошура (подвързване отдясно)
+	Booklets: duplex on the short edge. Blank pages are added at the end.	Брошури: двустранен печат по късия ръб. Празните страници се добавят в края.
 	Bookmark	Отметка
 	Bookmark name:	Име на отметката:
 	Border lines	Гранични линии
@@ -541,6 +546,7 @@
 	Decrease Font Size	Намаляване на размера на шрифта
 	Decrease Indent	Намаляване на отстъпа
 	Deep	Наситено
+	Default document zoom:	Мащаб по подразбиране за документи:
 	Default Paragraph Font	Шрифт на абзаца по подразбиране
 	Default tab stops:	Позиции на табулатора по подразбиране:
 	Define New Bullet	Дефиниране на нов водещ символ
@@ -772,6 +778,7 @@
 	Figure	Фигура
 	File locations	Местоположения на файлове
 	File name:	Име на файла:
+	File not found	Файлът не е намерен
 	File › New lists the .dotx and .dotm templates here under Personal; Save as Word Template starts here.	Файл › Нов показва шаблоните .dotx и .dotm оттук под Лични; „Запиши като шаблон на Word“ започва оттук.
 	Fill color:	Цвят на запълване:
 	Filling in forms	Попълване на формуляри
@@ -1344,6 +1351,7 @@
 	No Paragraph Space	Без разстояние между абзаците
 	No printers found. Configure a system printer or export a PDF.	Не са намерени принтери. Настройте системен принтер или експортирайте PDF.
 	No Reflection	Без отражение
+	No Scaling	Без мащабиране
 	No Shadow	Без сянка
 	No Soft Edges	Без меки ръбове
 	No sources yet.	Все още няма източници.
@@ -1467,6 +1475,7 @@
 	Overbar	Черта отгоре
 	Overbars and Underbars	Черти отгоре и отдолу
 	Overbrace	Фигурна скоба отгоре
+	Override zoom saved in documents	Замяна на мащаба, запазен в документите
 	Overtype	Заместване
 	Overtype (typing replaces the characters after the caret)	Заместване (въвежданият текст замества знаците след курсора)
 	Page Background	Фон на страницата
@@ -1499,6 +1508,7 @@
 	Page\nNumber	Номер на\nстраница
 	Pages like 1-3, 5	Страници, напр. 1-3, 5
 	Pages of bookmark:	Страници на отметката:
+	Pages per sheet	Страници на лист
 	Paper size:	Размер на хартията:
 	Paragraph Character	Знак за абзац
 	Paragraph Details	Подробности за абзаца
@@ -1774,6 +1784,7 @@
 	Saving {name} was cancelled, so it is still open and nothing was lost.	Запазването на {name} е отменено. Документът остава отворен и нищо не е загубено.
 	Scale	Мащаб
 	Scale Drawing	Мащабиране на рисунката
+	Scale to paper size	Мащабиране според размера на хартията
 	Scatter	Точкова
 	Script	Индекс
 	Scripts	Индекси
@@ -2103,6 +2114,7 @@
 	Text size	Размер на текста
 	Text snaps to characters	Прилепване на текста към знаците
 	Text to display:	Текст за показване:
+	Text Width	Ширина на текста
 	Text Wrapping	Обтичане на текста
 	Text\nBox	Текстово\nполе
 	Text\nDirection	Посока на\nтекста
@@ -2262,6 +2274,7 @@
 	URGENT	НЕОТЛОЖНО
 	URL	URL
 	Use an Existing List…	Използване на съществуващ списък…
+	Use document zoom	Използване на мащаба от документа
 	Use system setting	Според системната настройка
 	Use the browser's full screen (F11)	Използвайте режима на цял екран на браузъра (F11)
 	Use the Insert key to switch overtype on and off	Използване на клавиша Insert за включване и изключване на заместването
@@ -2371,16 +2384,3 @@
 	{words} words	Думи: {words}
 	“{text}” ({row}, {series}) isn't a number.	„{text}“ ({row}, {series}) не е число.
 	✓ None	✓ Няма
-	File not found	Файлът не е намерен
-	Default document zoom:	Мащаб по подразбиране за документи:
-	Use document zoom	Използване на мащаба от документа
-	Override zoom saved in documents	Замяна на мащаба, запазен в документите
-	Applies to new and opened documents. Saved document zoom takes priority unless you override it.	Прилага се за нови и отворени документи. Запазеният в документа мащаб има предимство, освен ако не го замените.
-	Text Width	Ширина на текста
-	Pages per sheet	Страници на лист
-	Booklet (left binding)	Брошура (подвързване отляво)
-	Booklet (right binding)	Брошура (подвързване отдясно)
-	Booklets: duplex on the short edge. Blank pages are added at the end.	Брошури: двустранен печат по късия ръб. Празните страници се добавят в края.
-	Auto orientation	Автоматична ориентация
-	Scale to paper size	Мащабиране според размера на хартията
-	No Scaling	Без мащабиране

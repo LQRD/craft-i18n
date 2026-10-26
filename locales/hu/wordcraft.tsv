@@ -163,6 +163,7 @@
 	Anyone can open this document. Encrypt it with a password to keep it private.	Ezt a dokumentumot bárki megnyithatja. Titkosítsd jelszóval, ha bizalmas.
 	Anyone who opens the document will need this password.	Aki megnyitja a dokumentumot, annak szüksége lesz erre a jelszóra.
 	APA	APA
+	Applies to new and opened documents. Saved document zoom takes priority unless you override it.	Új és megnyitott dokumentumokra vonatkozik. A dokumentumba mentett nagyítás elsőbbséget élvez, hacsak nem bírálja felül.
 	Apply as you type	Alkalmazás gépelés közben
 	Apply Asian line-breaking rules (kinsoku)	Ázsiai sortörési szabályok alkalmazása (kinsoku)
 	Apply formatting to:	Formázás alkalmazása erre:
@@ -186,6 +187,7 @@
 	Atmosphere	Légkör
 	Attach Template	Sablon csatolása
 	Attach…	Csatolás…
+	Auto orientation	Automatikus tájolás
 	AutoCorrect	Automatikus javítás
 	AutoCorrect Options	Automatikus javítás beállításai
 	AutoFit	Automatikus méretezés
@@ -252,6 +254,9 @@
 	Book	Könyv
 	Book Title	Könyvcím
 	Book title	Könyv címe
+	Booklet (left binding)	Füzet (bal oldali kötés)
+	Booklet (right binding)	Füzet (jobb oldali kötés)
+	Booklets: duplex on the short edge. Blank pages are added at the end.	Füzetek: kétoldalas nyomtatás a rövid él mentén. Az üres oldalak a végére kerülnek.
 	Bookmark	Könyvjelző
 	Bookmark name:	Könyvjelző neve:
 	Border lines	Szegélyvonalak
@@ -547,6 +552,7 @@
 	Decorative objects only add visual interest: screen readers skip them.	A díszítőelemek csak a látványt szolgálják, a képernyőolvasók kihagyják őket.
 	Decrease Indent	Behúzás csökkentése
 	Deep	Mély
+	Default document zoom:	Alapértelmezett dokumentumnagyítás:
 	Default Paragraph Font	Alapértelmezett bekezdésbetűtípus
 	Default tab stops:	Alapértelmezett tabulátortávolság:
 	Define New Bullet	Új felsorolásjel megadása
@@ -782,6 +788,7 @@
 	Figure	Ábra
 	File locations	Fájlok helye
 	File name:	Fájlnév:
+	File not found	A fájl nem található
 	File › New lists the .dotx and .dotm templates here under Personal; Save as Word Template starts here.	A Fájl › Új a Saját csoportban sorolja fel az itteni .dotx és .dotm sablonokat; a Mentés Word-sablonként innen indul.
 	Fill color:	Kitöltőszín:
 	Filling in forms	Űrlapok kitöltése
@@ -1354,6 +1361,7 @@
 	No Paragraph Space	Nincs bekezdéstérköz
 	No printers found. Configure a system printer or export a PDF.	Nem található nyomtató. Állítson be egy rendszernyomtatót, vagy exportáljon PDF-et.
 	No Reflection	Nincs tükröződés
+	No Scaling	Nincs átméretezés
 	No Shadow	Nincs árnyék
 	No Soft Edges	Nincsenek lágy szélek
 	No sources yet.	Még nincs forrás.
@@ -1474,6 +1482,7 @@
 	Overbar	Felülvonás
 	Overbars and Underbars	Felülvonások és aláhúzások
 	Overbrace	Felső kapcsos zárójel
+	Override zoom saved in documents	A dokumentumokba mentett nagyítás felülbírálása
 	Overtype	Felülírás
 	Overtype (typing replaces the characters after the caret)	Felülírás (a gépelés a kurzor utáni karaktereket cseréli)
 	Page Background	Oldalháttér
@@ -1506,6 +1515,7 @@
 	Page\nNumber	Oldalszám
 	Pages like 1-3, 5	Oldalak, például 1-3, 5
 	Pages of bookmark:	A könyvjelző oldalai:
+	Pages per sheet	Oldal laponként
 	Paper size:	Papírméret:
 	Paragraph Character	Bekezdésjel karakter (¶)
 	Paragraph Details	Bekezdés részletei
@@ -1774,6 +1784,7 @@
 	Saves a .dotx template in your templates folder. It shows up in File › New under Personal.	Egy .dotx sablont ment a sablonmappájába. A Fájl › Új lapon, a Saját csoportban jelenik meg.
 	Saving {name} was cancelled, so it is still open and nothing was lost.	A(z) {name} mentése megszakadt, így továbbra is nyitva van, és semmi sem veszett el.
 	Scale Drawing	Rajz méretezése
+	Scale to paper size	Igazítás a papírmérethez
 	Scatter	Pont (XY)
 	Script	Index
 	Scripts	Indexek
@@ -2102,6 +2113,7 @@
 	Text size	Szövegméret
 	Text snaps to characters	A szöveg a karakterrácshoz igazodik
 	Text to display:	Megjelenített szöveg:
+	Text Width	Szövegszélesség
 	Text Wrapping	Szöveg körbefuttatása
 	Text\nBox	Szövegdoboz
 	Text\nDirection	Szövegirány
@@ -2263,6 +2275,7 @@
 	Use "a" before a consonant sound	Mássalhangzóval kezdődő szó előtt „a” áll
 	Use "an" before a vowel sound	Magánhangzóval kezdődő szó előtt „an” áll
 	Use an Existing List…	Meglévő lista használata…
+	Use document zoom	A dokumentum nagyításának használata
 	Use system setting	A rendszerbeállítás követése
 	Use the browser's full screen (F11)	Használja a böngésző teljes képernyős módját (F11)
 	Use the Insert key to switch overtype on and off	Az Insert billentyű ki- és bekapcsolja a felülírást
@@ -2375,16 +2388,3 @@
 	✓ None	✓ Nincs
 	➕ New comment	➕ Új megjegyzés
 	📂  Browse…	📂  Tallózás…
-	File not found	A fájl nem található
-	Default document zoom:	Alapértelmezett dokumentumnagyítás:
-	Use document zoom	A dokumentum nagyításának használata
-	Override zoom saved in documents	A dokumentumokba mentett nagyítás felülbírálása
-	Applies to new and opened documents. Saved document zoom takes priority unless you override it.	Új és megnyitott dokumentumokra vonatkozik. A dokumentumba mentett nagyítás elsőbbséget élvez, hacsak nem bírálja felül.
-	Text Width	Szövegszélesség
-	Pages per sheet	Oldal laponként
-	Booklet (left binding)	Füzet (bal oldali kötés)
-	Booklet (right binding)	Füzet (jobb oldali kötés)
-	Booklets: duplex on the short edge. Blank pages are added at the end.	Füzetek: kétoldalas nyomtatás a rövid él mentén. Az üres oldalak a végére kerülnek.
-	Auto orientation	Automatikus tájolás
-	Scale to paper size	Igazítás a papírmérethez
-	No Scaling	Nincs átméretezés

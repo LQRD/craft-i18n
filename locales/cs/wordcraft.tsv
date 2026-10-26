@@ -162,6 +162,7 @@
 	Any Letter	Libovolné písmeno
 	Anyone can open this document. Encrypt it with a password to keep it private.	Tento dokument může otevřít kdokoli. Chcete-li jej chránit, zašifrujte jej heslem.
 	Anyone who opens the document will need this password.	Toto heslo bude potřebovat každý, kdo dokument otevře.
+	Applies to new and opened documents. Saved document zoom takes priority unless you override it.	Platí pro nové a otevírané dokumenty. Uložené přiblížení dokumentu má přednost, pokud jej nepřepíšete.
 	Apply as you type	Používat při psaní
 	Apply Asian line-breaking rules (kinsoku)	Používat asijská pravidla pro zalamování řádků (kinsoku)
 	Apply Character Style	Použít znakový styl
@@ -186,6 +187,7 @@
 	Atmosphere	Atmosféra
 	Attach Template	Připojit šablonu
 	Attach…	Připojit…
+	Auto orientation	Automatická orientace
 	AutoCorrect	Automatické opravy
 	AutoCorrect Options	Možnosti automatických oprav
 	AutoFit	Automaticky přizpůsobit
@@ -252,6 +254,9 @@
 	Book	Kniha
 	Book Title	Název knihy
 	Book title	Název knihy
+	Booklet (left binding)	Brožura (vazba vlevo)
+	Booklet (right binding)	Brožura (vazba vpravo)
+	Booklets: duplex on the short edge. Blank pages are added at the end.	Brožury: oboustranný tisk přes krátký okraj. Prázdné stránky se přidají na konec.
 	Bookmark	Záložka
 	Bookmark name:	Název záložky:
 	Border lines	Čáry ohraničení
@@ -542,6 +547,7 @@
 	Decorative objects only add visual interest: screen readers skip them.	Dekorativní objekty slouží pouze jako vizuální doplněk: čtečky obrazovky je přeskakují.
 	Decrease Indent	Zmenšit odsazení
 	Deep	Sytý
+	Default document zoom:	Výchozí přiblížení dokumentu:
 	Default Paragraph Font	Standardní písmo odstavce
 	Default tab stops:	Výchozí krok tabulátoru:
 	Define New Bullet	Definovat novou odrážku
@@ -771,6 +777,7 @@
 	Figure	Obrázek
 	File locations	Umístění souborů
 	File name:	Název souboru:
+	File not found	Soubor nenalezen
 	File › New lists the .dotx and .dotm templates here under Personal; Save as Word Template starts here.	Soubor › Nový zobrazuje šablony .dotx a .dotm odsud v části Osobní; Uložit jako šablonu Wordu začíná zde.
 	Fill color:	Barva výplně:
 	Filling in forms	Vyplňování formulářů
@@ -1335,6 +1342,7 @@
 	No Paragraph Space	Bez mezer mezi odstavci
 	No printers found. Configure a system printer or export a PDF.	Nebyly nalezeny žádné tiskárny. Nastavte systémovou tiskárnu nebo exportujte PDF.
 	No Reflection	Bez odrazu
+	No Scaling	Bez změny měřítka
 	No Shadow	Bez stínu
 	No Soft Edges	Bez měkkých okrajů
 	No sources yet.	Zatím žádné prameny.
@@ -1455,6 +1463,7 @@
 	Overbar	Čára nad výrazem
 	Overbars and Underbars	Čáry nad a pod výrazem
 	Overbrace	Složená závorka nad výrazem
+	Override zoom saved in documents	Přepsat přiblížení uložené v dokumentech
 	Overtype	Přepisování
 	Overtype (typing replaces the characters after the caret)	Přepisování (psaný text nahrazuje znaky za kurzorem)
 	Page Background	Pozadí stránky
@@ -1487,6 +1496,7 @@
 	Page\nNumber	Číslo\nstránky
 	Pages like 1-3, 5	Stránky, např. 1-3, 5
 	Pages of bookmark:	Stránky záložky:
+	Pages per sheet	Stránek na list
 	Paper size:	Velikost papíru:
 	Paragraph Character	Znak odstavce
 	Paragraph Details	Podrobnosti odstavce
@@ -1756,6 +1766,7 @@
 	Saves a .dotx template in your templates folder. It shows up in File › New under Personal.	Uloží šablonu .dotx do vaší složky šablon. Zobrazí se v nabídce Soubor › Nový v části Osobní.
 	Saving {name} was cancelled, so it is still open and nothing was lost.	Ukládání {name} bylo zrušeno, dokument zůstává otevřený a nic se neztratilo.
 	Scale Drawing	Škálovat kresbu
+	Scale to paper size	Přizpůsobit velikosti papíru
 	Scatter	Bodový
 	Script	Index
 	Scripts	Indexy
@@ -2087,6 +2098,7 @@
 	Text size	Velikost textu
 	Text snaps to characters	Text se přichytává ke znakům
 	Text to display:	Zobrazený text:
+	Text Width	Šířka textu
 	Text Wrapping	Obtékání textu
 	Text\nBox	Textové\npole
 	Text\nDirection	Směr\ntextu
@@ -2247,6 +2259,7 @@ preview	Title	Ukázka
 	Use "a" before a consonant sound	Před souhláskovým zvukem použít „a“
 	Use "an" before a vowel sound	Před samohláskovým zvukem použít „an“
 	Use an Existing List…	Použít existující seznam…
+	Use document zoom	Použít přiblížení dokumentu
 	Use system setting	Podle nastavení systému
 	Use the browser's full screen (F11)	Použijte celou obrazovku prohlížeče (F11)
 	Use the Insert key to switch overtype on and off	Přepínat režim přepisování klávesou Insert
@@ -2358,16 +2371,3 @@ preview	Title	Ukázka
 	✓ None	✓ Žádné
 	➕ New comment	➕ Nový komentář
 	📂  Browse…	📂  Procházet…
-	File not found	Soubor nenalezen
-	Default document zoom:	Výchozí přiblížení dokumentu:
-	Use document zoom	Použít přiblížení dokumentu
-	Override zoom saved in documents	Přepsat přiblížení uložené v dokumentech
-	Applies to new and opened documents. Saved document zoom takes priority unless you override it.	Platí pro nové a otevírané dokumenty. Uložené přiblížení dokumentu má přednost, pokud jej nepřepíšete.
-	Text Width	Šířka textu
-	Pages per sheet	Stránek na list
-	Booklet (left binding)	Brožura (vazba vlevo)
-	Booklet (right binding)	Brožura (vazba vpravo)
-	Booklets: duplex on the short edge. Blank pages are added at the end.	Brožury: oboustranný tisk přes krátký okraj. Prázdné stránky se přidají na konec.
-	Auto orientation	Automatická orientace
-	Scale to paper size	Přizpůsobit velikosti papíru
-	No Scaling	Bez změny měřítka

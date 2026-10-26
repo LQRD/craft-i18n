@@ -137,6 +137,7 @@
 	Any Letter	任意字母
 	Anyone can open this document. Encrypt it with a password to keep it private.	任何人都可以開啟此文件。以密碼加密可保護其隱私。
 	Anyone who opens the document will need this password.	開啟文件的任何人都需要此密碼。
+	Applies to new and opened documents. Saved document zoom takes priority unless you override it.	適用於新建和開啟的文件。除非啟用覆寫，否則優先使用文件中儲存的縮放比例。
 	Apply as you type	輸入時套用
 	Apply Asian line-breaking rules (kinsoku)	套用亞洲文字的斷行規則（禁則）
 	Apply formatting to:	將格式套用至：
@@ -161,6 +162,7 @@
 	Atmosphere	大氣
 	Attach Template	附加範本
 	Attach…	附加…
+	Auto orientation	自動方向
 	AutoCorrect	自動校正
 	AutoCorrect Options	自動校正選項
 	AutoFit	自動調整
@@ -220,6 +222,9 @@
 	Body Text	本文
 	Book	書籍
 	Book title	書名
+	Booklet (left binding)	小冊子（左側裝訂）
+	Booklet (right binding)	小冊子（右側裝訂）
+	Booklets: duplex on the short edge. Blank pages are added at the end.	小冊子：沿短邊雙面列印。空白頁將加入末尾。
 	Bookmark	書籤
 	Bookmark name:	書籤名稱：
 	Border lines	框線
@@ -461,6 +466,7 @@
 	Decrease Font Size	縮小字型大小
 	Decrease Indent	減少縮排
 	Deep	深沉
+	Default document zoom:	預設文件縮放：
 	Default tab stops:	預設定位點間距：
 	Define New Bullet	定義新的項目符號
 	Define New Multilevel List	定義新的多層次清單
@@ -658,6 +664,7 @@
 	Figure	圖
 	File locations	檔案位置
 	File name:	檔案名稱:
+	File not found	找不到檔案
 	File › New lists the .dotx and .dotm templates here under Personal; Save as Word Template starts here.	「檔案 › 新增」會在「個人」下列出此處的 .dotx 和 .dotm 範本；「另存為 Word 範本」從這裡開始。
 	Fill color:	填滿色彩：
 	Filling in forms	填寫表單
@@ -1139,6 +1146,7 @@
 	No Paragraph Space	無段落間距
 	No printers found. Configure a system printer or export a PDF.	找不到印表機。請在系統中設定印表機或匯出 PDF。
 	No Reflection	無反射
+	No Scaling	不縮放
 	No Shadow	無陰影
 	No Soft Edges	無柔化邊緣
 	No sources yet.	尚無來源。
@@ -1247,6 +1255,7 @@
 	Outside border	外側框線
 	Outside Borders	外框線
 	Outside:	外側：
+	Override zoom saved in documents	覆寫文件中儲存的縮放比例
 	Overtype	取代
 	Overtype (typing replaces the characters after the caret)	取代（輸入的內容會取代插入點後的字元）
 	Page Background	頁面背景
@@ -1279,6 +1288,7 @@
 	Page\nNumber	頁碼
 	Pages like 1-3, 5	頁碼,如 1-3, 5
 	Pages of bookmark:	書籤所在頁：
+	Pages per sheet	每張紙的頁數
 	Paper size:	紙張大小：
 	Paragraph Character	段落符號
 	Paragraph Details	段落詳細資料
@@ -1527,6 +1537,7 @@
 	Saves a .dotx template in your templates folder. It shows up in File › New under Personal.	將 .dotx 範本儲存到你的範本資料夾。它會顯示在「檔案 › 新增」的「個人」下。
 	Saving {name} was cancelled, so it is still open and nothing was lost.	已取消儲存 {name}，文件仍保持開啟，沒有遺失任何內容。
 	Scale Drawing	縮放繪圖
+	Scale to paper size	縮放至紙張大小
 	Scatter	散佈圖
 	Script	上下標
 	Scripts	Scripts
@@ -1815,6 +1826,7 @@
 	Text size	文字大小
 	Text snaps to characters	文字貼齊字元格線
 	Text to display:	要顯示的文字：
+	Text Width	文字寬度
 	Text Wrapping	文繞圖
 	Text\nBox	文字方塊
 	Text\nDirection	文字方向
@@ -1950,6 +1962,7 @@
 	Update to Match Selection	更新以符合選取範圍
 	URL	URL
 	Use an Existing List…	使用現有清單…
+	Use document zoom	使用文件的縮放比例
 	Use system setting	使用系統設定
 	Use the browser's full screen (F11)	請使用瀏覽器的全螢幕模式 (F11)
 	Use the Insert key to switch overtype on and off	使用 Insert 鍵切換取代模式
@@ -2051,16 +2064,3 @@
 	{width} × {height} pixels	{width} × {height} 像素
 	{words} words	{words} 個字
 	“{text}” ({row}, {series}) isn't a number.	「{text}」（{row}，{series}）不是數字。
-	File not found	找不到檔案
-	Default document zoom:	預設文件縮放：
-	Use document zoom	使用文件的縮放比例
-	Override zoom saved in documents	覆寫文件中儲存的縮放比例
-	Applies to new and opened documents. Saved document zoom takes priority unless you override it.	適用於新建和開啟的文件。除非啟用覆寫，否則優先使用文件中儲存的縮放比例。
-	Text Width	文字寬度
-	Pages per sheet	每張紙的頁數
-	Booklet (left binding)	小冊子（左側裝訂）
-	Booklet (right binding)	小冊子（右側裝訂）
-	Booklets: duplex on the short edge. Blank pages are added at the end.	小冊子：沿短邊雙面列印。空白頁將加入末尾。
-	Auto orientation	自動方向
-	Scale to paper size	縮放至紙張大小
-	No Scaling	不縮放

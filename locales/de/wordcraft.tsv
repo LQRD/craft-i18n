@@ -134,6 +134,7 @@
 	Any Letter	Beliebiger Buchstabe
 	Anyone can open this document. Encrypt it with a password to keep it private.	Jeder kann dieses Dokument öffnen. Verschlüsseln Sie es mit einem Kennwort, um es privat zu halten.
 	Anyone who opens the document will need this password.	Jeder, der das Dokument öffnet, braucht dieses Kennwort.
+	Applies to new and opened documents. Saved document zoom takes priority unless you override it.	Gilt für neue und geöffnete Dokumente. Der gespeicherte Dokumentzoom hat Vorrang, sofern er nicht überschrieben wird.
 	Apply	Übernehmen
 	Apply as you type	Während der Eingabe anwenden
 	Apply Asian line-breaking rules (kinsoku)	Asiatische Zeilenumbruchregeln anwenden (Kinsoku)
@@ -159,6 +160,7 @@
 	Attach…	Anfügen…
 	Author	Autor
 	Auto ({percent}%)	Automatisch ({percent}%)
+	Auto orientation	Automatische Ausrichtung
 	AutoCorrect	AutoKorrektur
 	AutoCorrect Options	AutoKorrektur-Optionen
 	AutoFit	Automatisch anpassen
@@ -217,6 +219,9 @@
 	Body Text	Textkörper
 	Book	Buch
 	Book title	Buchtitel
+	Booklet (left binding)	Broschüre (Bindung links)
+	Booklet (right binding)	Broschüre (Bindung rechts)
+	Booklets: duplex on the short edge. Blank pages are added at the end.	Broschüren: beidseitig an der kurzen Kante drucken. Leere Seiten werden am Ende ergänzt.
 	Bookmark	Textmarke
 	Bookmark name:	Textmarkenname:
 	Border lines	Rahmenlinien
@@ -457,6 +462,7 @@
 	Decrease Font Size	Schriftgrad verkleinern
 	Decrease Indent	Einzug verkleinern
 	Deep	Tief
+	Default document zoom:	Standard-Dokumentzoom:
 	Default tab stops:	Standardtabstopps:
 	Define New Bullet	Neues Aufzählungszeichen definieren
 	Define New Multilevel List	Neue mehrstufige Liste definieren
@@ -651,6 +657,7 @@
 	Figure	Abbildung
 	File locations	Dateispeicherorte
 	File name:	Dateiname:
+	File not found	Datei nicht gefunden
 	File › New lists the .dotx and .dotm templates here under Personal; Save as Word Template starts here.	Datei › Neu zeigt die .dotx- und .dotm-Vorlagen von hier unter Persönlich; Als Word-Vorlage speichern beginnt hier.
 	Fill color:	Füllfarbe:
 	Filling in forms	Ausfüllen von Formularen
@@ -1136,6 +1143,7 @@
 	No Paragraph Space	Kein Absatzabstand
 	No printers found. Configure a system printer or export a PDF.	Keine Drucker gefunden. Richten Sie einen Systemdrucker ein oder exportieren Sie ein PDF.
 	No Reflection	Keine Spiegelung
+	No Scaling	Keine Skalierung
 	No Shadow	Kein Schatten
 	No Soft Edges	Keine weichen Kanten
 	No sources yet.	Noch keine Quellen.
@@ -1244,6 +1252,7 @@
 	Outside Borders	Außenrahmen
 	Outside:	Außen:
 	Oval	Oval
+	Override zoom saved in documents	Im Dokument gespeicherten Zoom überschreiben
 	Overtype	Überschreiben
 	Overtype (typing replaces the characters after the caret)	Überschreiben (die Eingabe ersetzt die Zeichen nach der Einfügemarke)
 	Page Background	Seitenhintergrund
@@ -1276,6 +1285,7 @@
 	Page\nNumber	Seiten-\nzahl
 	Pages like 1-3, 5	Seiten wie 1-3, 5
 	Pages of bookmark:	Seiten der Textmarke:
+	Pages per sheet	Seiten pro Blatt
 	Paper size:	Papierformat:
 	Paragraph Character	Absatzmarke
 	Paragraph Details	Absatzdetails
@@ -1522,6 +1532,7 @@
 	Saving {name} was cancelled, so it is still open and nothing was lost.	Das Speichern von {name} wurde abgebrochen. Das Dokument ist weiterhin geöffnet und nichts ist verloren gegangen.
 	Scale	Skalierung
 	Scale Drawing	Zeichnung skalieren
+	Scale to paper size	An Papiergröße anpassen
 	Scatter	Punkt (XY)
 	Script	Index
 	Scripts	Scripts
@@ -1808,6 +1819,7 @@
 	Text size	Textgröße
 	Text snaps to characters	Text am Zeichenraster ausrichten
 	Text to display:	Anzuzeigender Text:
+	Text Width	Textbreite
 	Text Wrapping	Zeilenumbruch
 	Text\nBox	Text-\nfeld
 	Text\nDirection	Text-\nrichtung
@@ -1943,6 +1955,7 @@
 	Update to Match Selection	An Auswahl anpassen
 	URL	URL
 	Use an Existing List…	Vorhandene Liste verwenden…
+	Use document zoom	Zoom aus dem Dokument verwenden
 	Use system setting	Systemeinstellung verwenden
 	Use the browser's full screen (F11)	Verwenden Sie den Vollbildmodus des Browsers (F11)
 	Use the Insert key to switch overtype on and off	Überschreibmodus mit der Einfg-Taste ein- und ausschalten
@@ -2040,16 +2053,3 @@
 	{width} × {height} pixels	{width} × {height} Pixel
 	{words} words	Wörter: {words}
 	“{text}” ({row}, {series}) isn't a number.	„{text}“ ({row}, {series}) ist keine Zahl.
-	File not found	Datei nicht gefunden
-	Default document zoom:	Standard-Dokumentzoom:
-	Use document zoom	Zoom aus dem Dokument verwenden
-	Override zoom saved in documents	Im Dokument gespeicherten Zoom überschreiben
-	Applies to new and opened documents. Saved document zoom takes priority unless you override it.	Gilt für neue und geöffnete Dokumente. Der gespeicherte Dokumentzoom hat Vorrang, sofern er nicht überschrieben wird.
-	Text Width	Textbreite
-	Pages per sheet	Seiten pro Blatt
-	Booklet (left binding)	Broschüre (Bindung links)
-	Booklet (right binding)	Broschüre (Bindung rechts)
-	Booklets: duplex on the short edge. Blank pages are added at the end.	Broschüren: beidseitig an der kurzen Kante drucken. Leere Seiten werden am Ende ergänzt.
-	Auto orientation	Automatische Ausrichtung
-	Scale to paper size	An Papiergröße anpassen
-	No Scaling	Keine Skalierung

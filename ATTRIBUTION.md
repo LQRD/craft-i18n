@@ -72,4 +72,3 @@ agent messages, storytold/wordcraft#2600) in `bg`, `cs`, `de`, `es`, `et`, `fr`,
 `ja`, `ko`, `pl`, `pt-br`, `ru`, `sr-latn`, `sr`, `sv`, `tr`, `uk`, `vi`, `zh-hans` and `zh-hant`,
 AI-assisted with Claude Code and written from the English meaning. No native-speaker review is
 recorded.
-

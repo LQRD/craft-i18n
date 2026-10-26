@@ -10,7 +10,6 @@
 # Clean room: every entry was written from the plain meaning of the English text in ordinary
 # computing vocabulary. No other product's localisation, string table or translated UI was
 # consulted or copied; add entries the same way.
-# WordCraft preferences and print sheet controls; AI-assisted, native-speaker review pending.
 
 	% of all commits	ყველა კომიტის %
 	(All)	(ყველა)
@@ -1623,11 +1622,11 @@ template	Letter	წერილი
 	None	არცერთი
 	Normal	ძირითადი
 	Normal  {size} all	ჩვეულებრივი  {size} ყოველ მხარეს
-	Normal Indent	ჩვეულებრივი შეწევა
+	Normal Indent	ძირითადი შეწევა
 	Normal probability density	ნორმალური განაწილების სიმკვრივე
 	Normal speed	ჩვეულებრივი სიჩქარე
-	Normal Style	ჩვეულებრივი სტილი
-	Normal Table	ჩვეულებრივი ცხრილი
+	Normal Style	ძირითადი სტილი
+	Normal Table	ძირითადი ცხრილი
 	Normal Text	ჩვეულებრივი ტექსტი
 	Normal Word Document	ჩვეულებრივი Word დოკუმენტი
 	North	ჩრდილოეთი

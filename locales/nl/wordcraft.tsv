@@ -1362,6 +1362,7 @@
 	Next Section	Volgende sectie
 	Next Sentence	Volgende zin
 	Next sentence	Volgende zin
+	Next sheet	Volgend vel
 	No accessibility issues found.	Geen problemen met toegankelijkheid gevonden.
 	No Border	Geen rand
 	No changes (read only)	Geen wijzigingen (alleen lezen)
@@ -1613,6 +1614,7 @@
 	Previous Section	Vorige sectie
 	Previous Sentence	Vorige zin
 	Previous sentence	Vorige zin
+	Previous sheet	Vorig vel
 	Print Documents	Documenten afdrukken
 	Print Documents…	Documenten afdrukken…
 	Print failed: the printing worker stopped.	Afdrukken mislukt: het afdrukproces is gestopt.
@@ -1904,6 +1906,7 @@
 	Shape Outline	Vormrand
 	Shape Styles	Vormstijlen
 	Share	Delen
+	Sheet {page} of {pages}	Vel {page} van {pages}
 	Shift+Tab	Shift+Tab
 	Shipping labels	Verzendlabels
 	Shortcut key:	Sneltoets:

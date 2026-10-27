@@ -1353,6 +1353,7 @@ template	Letter	Pismo
 	Next Section	Sljedeći odjeljak
 	Next Sentence	Sljedeća rečenica
 	Next sentence	Sljedeća rečenica
+	Next sheet	Sljedeći list
 	Nib floats over the window with tips and the occasional remark.	Nib lebdi iznad prozora sa savjetima i ponekom primjedbom.
 	Nib, your assistant. Drag to move; right-click for options.	Nib, vaš asistent. Povucite za premještanje; desni klik za mogućnosti.
 	No accessibility issues found.	Nisu pronađeni problemi s pristupačnošću.
@@ -1605,6 +1606,7 @@ template	Letter	Pismo
 	Previous Section	Prethodni odjeljak
 	Previous Sentence	Prethodna rečenica
 	Previous sentence	Prethodna rečenica
+	Previous sheet	Prethodni list
 	Print Documents	Ispis dokumenata
 	Print Documents…	Ispis dokumenata…
 	Print failed: the printing worker stopped.	Ispis nije uspio: proces ispisa se zaustavio.
@@ -1887,6 +1889,7 @@ template	Letter	Pismo
 	Shape Format	Oblikovanje oblika
 	Shape Outline	Obris oblika
 	Shape Styles	Stilovi oblika
+	Sheet {page} of {pages}	List {page} od {pages}
 	Shift+Enter starts a new line without starting a new paragraph.	Shift+Enter započinje novi redak bez započinjanja novog odlomka.
 	Shift+Tab	Shift+Tab
 	Shipping labels	Naljepnice za otpremu

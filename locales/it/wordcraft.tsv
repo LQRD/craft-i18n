@@ -1375,6 +1375,7 @@ template	Letter	Lettera
 	Next Section	Sezione successiva
 	Next Sentence	Frase successiva
 	Next sentence	Frase successiva
+	Next sheet	Foglio successivo
 	Nib floats over the window with tips and the occasional remark.	Nib fluttua sopra la finestra con suggerimenti e qualche commento occasionale.
 	Nib, your assistant. Drag to move; right-click for options.	Nib, il tuo assistente. Trascina per spostarlo; clic destro per le opzioni.
 	No accessibility issues found.	Nessun problema di accessibilità trovato.
@@ -1629,6 +1630,7 @@ template	Letter	Lettera
 	Previous Section	Sezione precedente
 	Previous Sentence	Frase precedente
 	Previous sentence	Frase precedente
+	Previous sheet	Foglio precedente
 	Print Documents	Stampa documenti
 	Print Documents…	Stampa documenti…
 	Print failed: the printing worker stopped.	Stampa non riuscita: il processo di stampa si è interrotto.
@@ -1915,6 +1917,7 @@ template	Letter	Lettera
 	Shape Format	Formato forma
 	Shape Outline	Contorno forma
 	Shape Styles	Stili forma
+	Sheet {page} of {pages}	Foglio {page} di {pages}
 	Shift+Enter starts a new line without starting a new paragraph.	Shift+Enter inizia una nuova riga senza iniziare un nuovo paragrafo.
 	Shift+Tab	Maiusc+Tab
 	Shipping labels	Etichette di spedizione

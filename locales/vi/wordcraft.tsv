@@ -1413,6 +1413,7 @@ template	Letter	Thư
 	Next Section	Phần tiếp theo
 	Next Sentence	Câu tiếp theo
 	Next sentence	Câu tiếp theo
+	Next sheet	Tờ tiếp theo
 	Nib floats over the window with tips and the occasional remark.	Nib lơ lửng trên cửa sổ với các mẹo và thỉnh thoảng một lời bình.
 	Nib, your assistant. Drag to move; right-click for options.	Nib, trợ lý của bạn. Kéo để di chuyển; nhấp chuột phải để xem tùy chọn.
 	No accessibility issues found.	Không tìm thấy vấn đề về khả năng tiếp cận nào.
@@ -1674,6 +1675,7 @@ template	Letter	Thư
 	Previous Section	Phần trước đó
 	Previous Sentence	Câu trước đó
 	Previous sentence	Câu trước đó
+	Previous sheet	Tờ trước
 	Print Documents	In tài liệu
 	Print Documents…	In tài liệu…
 	Print failed: the printing worker stopped.	In thất bại: tiến trình in đã dừng.
@@ -1966,6 +1968,7 @@ template	Letter	Thư
 	Shape Outline	Viền hình
 	Shape Styles	Kiểu hình
 	Shapes	Các hình
+	Sheet {page} of {pages}	Tờ {page} trên {pages}
 	Shift+Enter starts a new line without starting a new paragraph.	Shift+Enter bắt đầu một dòng mới mà không bắt đầu đoạn mới.
 	Shift+Tab	Shift+Tab
 	Shipping labels	Nhãn vận chuyển

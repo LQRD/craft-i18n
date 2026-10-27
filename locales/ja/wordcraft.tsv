@@ -1185,6 +1185,7 @@
 	Next Section	次へ
 	Next Sentence	次の文
 	Next sentence	次の文
+	Next sheet	次の用紙
 	Nib floats over the window with tips and the occasional remark.	Nib はヒントや時々ひと言を添えて、ウィンドウの上に浮かんでいます。
 	Nib, your assistant. Drag to move; right-click for options.	アシスタントの Nib です。ドラッグで移動、右クリックでオプション。
 	No accessibility issues found.	アクセシビリティの問題は見つかりませんでした。
@@ -1416,6 +1417,7 @@
 	Previous Section	前へ
 	Previous Sentence	前の文
 	Previous sentence	前の文
+	Previous sheet	前の用紙
 	Print Documents	ドキュメントを印刷
 	Print Documents…	ドキュメントを印刷…
 	Print failed: the printing worker stopped.	印刷に失敗しました：印刷ワーカーが停止しました。
@@ -1700,6 +1702,7 @@
 	Shape Outline	図形の枠線
 	Shape Styles	図形のスタイル
 	Shapes	図形
+	Sheet {page} of {pages}	{pages} 枚中 {page} 枚目
 	Shift+Enter starts a new line without starting a new paragraph.	Shift+Enter で、新しい段落にせずに改行できます。
 	Shift+Tab	Shift+Tab
 	Shipping labels	配送ラベル

@@ -1480,6 +1480,7 @@
 	Next Section	Naslednji odsek
 	Next Sentence	Naslednji stavek
 	Next sentence	Naslednji stavek
+	Next sheet	Naslednji list
 	No accessibility issues found.	Ni najdenih težav z dostopnostjo.
 	No Border	Brez obrobe
 	No changes (read only)	Brez sprememb (samo za branje)
@@ -1753,6 +1754,7 @@
 	Previous Section	Prejšnji odsek
 	Previous Sentence	Prejšnji stavek
 	Previous sentence	Prejšnji stavek
+	Previous sheet	Prejšnji list
 	Print Documents	Natisni dokumente
 	Print Documents…	Natisni dokumente…
 	Print failed: the printing worker stopped.	Tiskanje ni uspelo: proces za tiskanje se je ustavil.
@@ -2067,6 +2069,7 @@
 	Shape Styles	Slogi oblik
 	Shapes	Oblike
 	Share	Deli
+	Sheet {page} of {pages}	List {page} od {pages}
 	Shift+Tab	Shift+Tab
 	Shipping labels	Nalepke za pošiljke
 	Shortcut key:	Bližnjična tipka:

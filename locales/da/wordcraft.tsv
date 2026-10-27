@@ -1365,6 +1365,7 @@
 	Next Section	Næste sektion
 	Next Sentence	Næste sætning
 	Next sentence	Næste sætning
+	Next sheet	Næste ark
 	No	Nej
 	No accessibility issues found.	Ingen tilgængelighedsproblemer fundet.
 	No Border	Ingen kant
@@ -1619,6 +1620,7 @@
 	Previous Section	Forrige sektion
 	Previous Sentence	Forrige sætning
 	Previous sentence	Forrige sætning
+	Previous sheet	Forrige ark
 	Print Documents	Udskriv dokumenter
 	Print Documents…	Udskriv dokumenter…
 	Print failed: the printing worker stopped.	Udskrivning mislykkedes: udskriftsprocessen stoppede.
@@ -1912,6 +1914,7 @@
 	Shape Styles	Figurstile
 	Shapes	Figurer
 	Share	Del
+	Sheet {page} of {pages}	Ark {page} af {pages}
 	Shift+Tab	Shift+Tab
 	Shipping labels	Forsendelsesetiketter
 	Shortcut key:	Genvejstast:

@@ -1126,6 +1126,7 @@
 	Next Section	Sledeći odeljak
 	Next Sentence	Sledeća rečenica
 	Next sentence	Sledeća rečenica
+	Next sheet	Sledeći list
 	Nib floats over the window with tips and the occasional remark.	Nib lebdi iznad prozora sa savetima i ponekom primedbom.
 	Nib, your assistant. Drag to move; right-click for options.	Nib, vaš asistent. Prevucite da biste ga pomerili; desni klik za opcije.
 	No accessibility issues found.	Nije pronađen nijedan problem pristupačnosti.
@@ -1355,6 +1356,7 @@
 	Previous Section	Prethodni odeljak
 	Previous Sentence	Prethodna rečenica
 	Previous sentence	Prethodna rečenica
+	Previous sheet	Prethodni list
 	Print Documents	Štampaj dokumente
 	Print Documents…	Štampaj dokumente…
 	Print failed: the printing worker stopped.	Štampanje nije uspelo: proces štampanja je zaustavljen.
@@ -1622,6 +1624,7 @@
 	Shape Format	Format oblika
 	Shape Outline	Kontura oblika
 	Shape Styles	Stilovi oblika
+	Sheet {page} of {pages}	List {page} od {pages}
 	Shift+Enter starts a new line without starting a new paragraph.	Shift+Enter počinje novi red bez započinjanja novog pasusa.
 	Shift+Tab	Shift+Tab
 	Shipping labels	Nalepnice za pošiljke

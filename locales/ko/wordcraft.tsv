@@ -1320,6 +1320,7 @@
 	Next Section	다음 구역
 	Next Sentence	다음 문장
 	Next sentence	다음 문장
+	Next sheet	다음 용지
 	Nib floats over the window with tips and the occasional remark.	Nib은 팁과 가끔 한마디를 건네며 창 위에 떠 있습니다.
 	Nib, your assistant. Drag to move; right-click for options.	도우미 Nib입니다. 끌어서 옮기고, 마우스 오른쪽 단추로 옵션을 엽니다.
 	No accessibility issues found.	접근성 문제가 없습니다.
@@ -1568,6 +1569,7 @@
 	Previous Section	이전 구역
 	Previous Sentence	이전 문장
 	Previous sentence	이전 문장
+	Previous sheet	이전 용지
 	Print Documents	문서 인쇄
 	Print Documents…	문서 인쇄…
 	Print failed: the printing worker stopped.	인쇄 실패: 인쇄 작업자가 중지되었습니다.
@@ -1846,6 +1848,7 @@
 	Shape Outline	도형 윤곽선
 	Shape Styles	도형 스타일
 	Shapes	도형
+	Sheet {page} of {pages}	{pages}장 중 {page}장
 	Shift+Enter starts a new line without starting a new paragraph.	Shift+Enter를 누르면 새 단락 없이 줄만 바꿉니다.
 	Shift+Tab	Shift+Tab
 	Shipping labels	배송 레이블

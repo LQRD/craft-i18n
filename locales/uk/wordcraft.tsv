@@ -1171,6 +1171,7 @@
 	Next Section	Наступний розділ
 	Next Sentence	Наступне речення
 	Next sentence	Наступне речення
+	Next sheet	Наступний аркуш
 	Nib floats over the window with tips and the occasional remark.	Ніб ширяє над вікном із порадами й зрідка зауваженнями.
 	Nib, your assistant. Drag to move; right-click for options.	Ніб, ваш помічник. Перетягніть, щоб перемістити; клацніть правою кнопкою для параметрів.
 	No accessibility issues found.	Проблем із доступністю не знайдено.
@@ -1405,6 +1406,7 @@
 	Previous Section	Попередній розділ
 	Previous Sentence	Попереднє речення
 	Previous sentence	Попереднє речення
+	Previous sheet	Попередній аркуш
 	Print Documents	Друк документів
 	Print Documents…	Друк документів…
 	Print failed: the printing worker stopped.	Друк не вдався: процес друку зупинився.
@@ -1679,6 +1681,7 @@
 	Shape Format	Формат фігури
 	Shape Outline	Контур фігури
 	Shape Styles	Стилі фігур
+	Sheet {page} of {pages}	Аркуш {page} із {pages}
 	Shift+Enter starts a new line without starting a new paragraph.	Shift+Enter починає новий рядок, не починаючи новий абзац.
 	Shift+Tab	Shift+Tab
 	Shipping labels	Етикетки для відправлень

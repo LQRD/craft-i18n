@@ -1582,6 +1582,7 @@ template	Letter	წერილი
 	Next Section	შემდეგი სექცია
 	Next Sentence	შემდეგი წინადადება
 	Next sentence	შემდეგი წინადადება
+	Next sheet	შემდეგი ფურცელი
 	No	არა
 	No accessibility issues found.	ხელმისაწვდომობის პრობლემები არ მოიძებნა.
 	No Border	ჩარჩოს გარეშე
@@ -1874,6 +1875,7 @@ template	Letter	წერილი
 	Previous Section	წინა სექცია
 	Previous Sentence	წინა წინადადება
 	Previous sentence	წინა წინადადება
+	Previous sheet	წინა ფურცელი
 	Print	დაბეჭდვა
 	Print Documents	დოკუმენტების დაბეჭდვა
 	Print Documents…	დოკუმენტების დაბეჭდვა…
@@ -2210,6 +2212,7 @@ template	Letter	წერილი
 	Shape Styles	ფიგურის სტილები
 	Shapes	ფიგურები
 	Share	გაზიარება
+	Sheet {page} of {pages}	ფურცელი {page} / {pages}
 	Shift+Tab	Shift+Tab
 	Shipping labels	გზავნილის იარლიყები
 	Shortcut key:	კლავიშების კომბინაცია:

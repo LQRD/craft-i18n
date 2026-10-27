@@ -1378,6 +1378,7 @@
 	Next Section	Następna sekcja
 	Next Sentence	Następne zdanie
 	Next sentence	Następne zdanie
+	Next sheet	Następny arkusz
 	Nib floats over the window with tips and the occasional remark.	Nib unosi się nad oknem z poradami i od czasu do czasu jakąś uwagą.
 	Nib, your assistant. Drag to move; right-click for options.	Nib, twój asystent. Przeciągnij, aby przesunąć; kliknij prawym przyciskiem, aby otworzyć opcje.
 	No accessibility issues found.	Nie znaleziono problemów z ułatwieniami dostępu.
@@ -1634,6 +1635,7 @@
 	Previous Section	Poprzednia sekcja
 	Previous Sentence	Poprzednie zdanie
 	Previous sentence	Poprzednie zdanie
+	Previous sheet	Poprzedni arkusz
 	Print Documents	Drukuj dokumenty
 	Print Documents…	Drukuj dokumenty…
 	Print failed: the printing worker stopped.	Drukowanie nie powiodło się: proces drukowania został zatrzymany.
@@ -1921,6 +1923,7 @@
 	Shape Format	Formatowanie kształtu
 	Shape Outline	Kontur kształtu
 	Shape Styles	Style kształtu
+	Sheet {page} of {pages}	Arkusz {page} z {pages}
 	Shift+Enter starts a new line without starting a new paragraph.	Shift+Enter zaczyna nowy wiersz bez zaczynania nowego akapitu.
 	Shift+Tab	Shift+Tab
 	Shipping labels	Etykiety wysyłkowe

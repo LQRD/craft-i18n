@@ -1118,6 +1118,7 @@
 	Next Section	Järgmine jaotis
 	Next Sentence	Järgmine lause
 	Next sentence	Järgmine lause
+	Next sheet	Järgmine leht
 	Nib floats over the window with tips and the occasional remark.	Nib hõljub akna kohal nõuannete ja aeg-ajalt mõne märkusega.
 	Nib, your assistant. Drag to move; right-click for options.	Nib, sinu assistent. Lohista liigutamiseks; paremklõps valikute jaoks.
 	No accessibility issues found.	Ligipääsetavuse probleeme ei leitud.
@@ -1347,6 +1348,7 @@
 	Previous Section	Eelmine jaotis
 	Previous Sentence	Eelmine lause
 	Previous sentence	Eelmine lause
+	Previous sheet	Eelmine leht
 	Print Documents	Prindi dokumendid
 	Print Documents…	Prindi dokumendid…
 	Print failed: the printing worker stopped.	Printimine nurjus: printimisprotsess peatus.
@@ -1610,6 +1612,7 @@
 	Shape Format	Kujundi vorming
 	Shape Outline	Kujundi kontuur
 	Shape Styles	Kujundistiilid
+	Sheet {page} of {pages}	Leht {page}/{pages}
 	Shift+Enter starts a new line without starting a new paragraph.	Shift+Enter alustab uut rida ilma uut lõiku alustamata.
 	Shift+Tab	Shift+Tab
 	Shipping labels	Saatmissildid

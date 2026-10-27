@@ -1349,6 +1349,7 @@
 	Next Section	Следующий раздел
 	Next Sentence	Следующее предложение
 	Next sentence	Следующее предложение
+	Next sheet	Следующий лист
 	Nib floats over the window with tips and the occasional remark.	Ниб парит над окном с советами и редкими замечаниями.
 	Nib, your assistant. Drag to move; right-click for options.	Ниб, ваш помощник. Перетащите, чтобы переместить; щёлкните правой кнопкой для настроек.
 	No accessibility issues found.	Проблем со специальными возможностями не найдено.
@@ -1604,6 +1605,7 @@
 	Previous Section	Предыдущий раздел
 	Previous Sentence	Предыдущее предложение
 	Previous sentence	Предыдущее предложение
+	Previous sheet	Предыдущий лист
 	Print Documents	Печать документов
 	Print Documents…	Печать документов…
 	Print failed: the printing worker stopped.	Печать не удалась: процесс печати остановлен.
@@ -1890,6 +1892,7 @@
 	Shape Format	Формат фигуры
 	Shape Outline	Контур фигуры
 	Shape Styles	Стили фигур
+	Sheet {page} of {pages}	Лист {page} из {pages}
 	Shift+Enter starts a new line without starting a new paragraph.	Shift+Enter начинает новую строку, не начиная новый абзац.
 	Shift+Tab	Shift+Tab
 	Shipping labels	Транспортные наклейки

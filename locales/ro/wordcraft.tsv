@@ -1578,6 +1578,7 @@ template	Letter	Scrisoare
 	Next Section	Secțiunea următoare
 	Next Sentence	Propoziția următoare
 	Next sentence	Propoziția următoare
+	Next sheet	Foaia următoare
 	No	Nu
 	No accessibility issues found.	Nu s-au găsit probleme de accesibilitate.
 	No Border	Fără bordură
@@ -1868,6 +1869,7 @@ template	Letter	Scrisoare
 	Previous Section	Secțiunea anterioară
 	Previous Sentence	Propoziția anterioară
 	Previous sentence	Propoziția anterioară
+	Previous sheet	Foaia anterioară
 	Print	Imprimare
 	Print Documents	Imprimare documente
 	Print Documents…	Imprimare documente…
@@ -2203,6 +2205,7 @@ template	Letter	Scrisoare
 	Shape Styles	Stiluri de formă
 	Shapes	Forme
 	Share	Partajare
+	Sheet {page} of {pages}	Foaia {page} din {pages}
 	Shift+Tab	Shift+Tab
 	Shipping labels	Etichete de expediere
 	Shortcut key:	Tastă de scurtătură:

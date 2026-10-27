@@ -1359,6 +1359,7 @@
 	Next Section	Следващ раздел
 	Next Sentence	Следващо изречение
 	Next sentence	Следващо изречение
+	Next sheet	Следващ лист
 	Nib floats over the window with tips and the occasional remark.	Ниб се носи над прозореца със съвети и по някоя забележка.
 	Nib, your assistant. Drag to move; right-click for options.	Ниб, вашият асистент. Плъзнете, за да преместите; щракнете с десния бутон за опции.
 	No accessibility issues found.	Не са открити проблеми с достъпността.
@@ -1619,6 +1620,7 @@
 	Previous Section	Предишен раздел
 	Previous Sentence	Предишно изречение
 	Previous sentence	Предишно изречение
+	Previous sheet	Предишен лист
 	Print Documents	Печат на документи
 	Print Documents…	Печат на документи…
 	Print failed: the printing worker stopped.	Печатът е неуспешен: процесът на печат спря.
@@ -1907,6 +1909,7 @@
 	Shape Format	Формат на фигура
 	Shape Outline	Контур на фигура
 	Shape Styles	Стилове на фигури
+	Sheet {page} of {pages}	Лист {page} от {pages}
 	Shift+Enter starts a new line without starting a new paragraph.	Shift+Enter започва нов ред, без да започва нов абзац.
 	Shift+Tab	Shift+Tab
 	Shipping labels	Етикети за пратки

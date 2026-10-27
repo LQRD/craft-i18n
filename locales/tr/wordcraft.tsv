@@ -1338,6 +1338,7 @@
 	Next Section	Sonraki Bölüm
 	Next Sentence	Sonraki Cümle
 	Next sentence	Sonraki cümle
+	Next sheet	Sonraki yaprak
 	Nib floats over the window with tips and the occasional remark.	Nib, ipuçları ve ara sıra yorumlarla pencerenin üzerinde süzülür.
 	Nib, your assistant. Drag to move; right-click for options.	Asistanınız Nib. Taşımak için sürükleyin; seçenekler için sağ tıklayın.
 	No accessibility issues found.	Erişilebilirlik sorunu bulunamadı.
@@ -1596,6 +1597,7 @@
 	Previous Section	Önceki Bölüm
 	Previous Sentence	Önceki Cümle
 	Previous sentence	Önceki cümle
+	Previous sheet	Önceki yaprak
 	Print Documents	Belgeleri Yazdır
 	Print Documents…	Belgeleri Yazdır…
 	Print failed: the printing worker stopped.	Yazdırma başarısız oldu: yazdırma işlemi durdu.
@@ -1881,6 +1883,7 @@
 	Shape Format	Şekil Biçimi
 	Shape Outline	Şekil Çizgisi
 	Shape Styles	Şekil Stilleri
+	Sheet {page} of {pages}	Yaprak {page} / {pages}
 	Shift+Enter starts a new line without starting a new paragraph.	Shift+Enter yeni bir paragraf başlatmadan yeni bir satır başlatır.
 	Shift+Tab	Shift+Tab
 	Shipping labels	Kargo etiketleri

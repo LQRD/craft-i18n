@@ -1153,6 +1153,7 @@
 	Next Section	下一節
 	Next Sentence	下一句
 	Next sentence	下一句
+	Next sheet	下一張
 	Nib floats over the window with tips and the occasional remark.	Nib 漂浮在視窗上方，提供提示，偶爾也發表點意見。
 	Nib, your assistant. Drag to move; right-click for options.	你的助理 Nib。拖曳可移動；按右鍵開啟選項。
 	No accessibility issues found.	找不到協助工具問題。
@@ -1389,6 +1390,7 @@
 	Previous Section	上一節
 	Previous Sentence	上一句
 	Previous sentence	上一句
+	Previous sheet	上一張
 	Print Documents	列印文件
 	Print Documents…	列印文件…
 	Print failed: the printing worker stopped.	列印失敗：列印工作執行緒已停止。
@@ -1664,6 +1666,7 @@
 	Shape Outline	圖案外框
 	Shape Styles	圖案樣式
 	Shapes	圖案
+	Sheet {page} of {pages}	第 {page} 張，共 {pages} 張
 	Shift+Enter starts a new line without starting a new paragraph.	Shift+Enter 可以換行，但不開始新段落。
 	Shift+Tab	Shift+Tab
 	Shipping labels	寄送標籤

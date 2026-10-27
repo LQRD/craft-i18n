@@ -1349,6 +1349,7 @@
 	Next Section	Další oddíl
 	Next Sentence	Další věta
 	Next sentence	Další věta
+	Next sheet	Další list
 	Nib floats over the window with tips and the occasional remark.	Nib se vznáší nad oknem s tipy a občasnou poznámkou.
 	Nib, your assistant. Drag to move; right-click for options.	Nib, váš asistent. Přetažením přesunete; pravým tlačítkem otevřete možnosti.
 	No accessibility issues found.	Nebyly nalezeny žádné problémy s přístupností.
@@ -1603,6 +1604,7 @@
 	Previous Section	Předchozí oddíl
 	Previous Sentence	Předchozí věta
 	Previous sentence	Předchozí věta
+	Previous sheet	Předchozí list
 	Print Documents	Tisk dokumentů
 	Print Documents…	Tisk dokumentů…
 	Print failed: the printing worker stopped.	Tisk se nezdařil: proces tisku se zastavil.
@@ -1891,6 +1893,7 @@
 	Shape Format	Formát tvaru
 	Shape Outline	Obrys tvaru
 	Shape Styles	Styly tvarů
+	Sheet {page} of {pages}	List {page} z {pages}
 	Shift+Enter starts a new line without starting a new paragraph.	Shift+Enter začne nový řádek, aniž by začal nový odstavec.
 	Shift+Tab	Shift+Tab
 	Shipping labels	Přepravní štítky

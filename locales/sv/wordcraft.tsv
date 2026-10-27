@@ -1354,6 +1354,7 @@ template	Letter	Brev
 	Next Section	Nästa avsnitt
 	Next Sentence	Nästa mening
 	Next sentence	Nästa mening
+	Next sheet	Nästa ark
 	Nib floats over the window with tips and the occasional remark.	Nib svävar över fönstret med tips och en och annan kommentar.
 	Nib, your assistant. Drag to move; right-click for options.	Nib, din assistent. Dra för att flytta; högerklicka för alternativ.
 	No accessibility issues found.	Inga tillgänglighetsproblem hittades.
@@ -1605,6 +1606,7 @@ template	Letter	Brev
 	Previous Section	Föregående avsnitt
 	Previous Sentence	Föregående mening
 	Previous sentence	Föregående mening
+	Previous sheet	Föregående ark
 	Print Documents	Skriv ut dokument
 	Print Documents…	Skriv ut dokument…
 	Print failed: the printing worker stopped.	Utskriften misslyckades: utskriftsprocessen avbröts.
@@ -1887,6 +1889,7 @@ template	Letter	Brev
 	Shape Outline	Figurkontur
 	Shape Styles	Figurstilar
 	Shapes	Figurer
+	Sheet {page} of {pages}	Ark {page} av {pages}
 	Shift+Enter starts a new line without starting a new paragraph.	Shift+Enter börjar en ny rad utan att börja ett nytt stycke.
 	Shift+Tab	Shift+Tab
 	Shipping labels	Fraktetiketter

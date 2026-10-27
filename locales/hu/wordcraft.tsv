@@ -1369,6 +1369,7 @@
 	Next Section	Következő szakasz
 	Next Sentence	Következő mondat
 	Next sentence	Következő mondat
+	Next sheet	Következő lap
 	Nib floats over the window with tips and the occasional remark.	Nib tippekkel és néha egy-egy megjegyzéssel lebeg az ablak felett.
 	Nib, your assistant. Drag to move; right-click for options.	Nib, az asszisztense. Húzza az áthelyezéshez; kattintson jobb gombbal a beállításokhoz.
 	No accessibility issues found.	Nincs akadálymentességi probléma.
@@ -1622,6 +1623,7 @@
 	Previous Section	Előző szakasz
 	Previous Sentence	Előző mondat
 	Previous sentence	Előző mondat
+	Previous sheet	Előző lap
 	Print Documents	Dokumentumok nyomtatása
 	Print Documents…	Dokumentumok nyomtatása…
 	Print failed: the printing worker stopped.	A nyomtatás sikertelen: a nyomtatási folyamat leállt.
@@ -1906,6 +1908,7 @@
 	Shape Format	Alakzatformátum
 	Shape Outline	Alakzat körvonala
 	Shape Styles	Alakzatstílusok
+	Sheet {page} of {pages}	{page}. lap / {pages}
 	Shift+Enter starts a new line without starting a new paragraph.	A Shift+Enter új sort kezd anélkül, hogy új bekezdést kezdene.
 	Shift+Tab	Shift+Tab
 	Shipping labels	Szállítási címkék

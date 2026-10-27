@@ -1321,6 +1321,7 @@
 	Next Section	Sección siguiente
 	Next Sentence	Frase siguiente
 	Next sentence	Frase siguiente
+	Next sheet	Hoja siguiente
 	Nib floats over the window with tips and the occasional remark.	Nib flota sobre la ventana con consejos y algún que otro comentario.
 	Nib, your assistant. Drag to move; right-click for options.	Nib, tu asistente. Arrastra para moverlo; clic derecho para ver las opciones.
 	No accessibility issues found.	No se encontraron problemas de accesibilidad.
@@ -1572,6 +1573,7 @@
 	Previous Section	Sección anterior
 	Previous Sentence	Frase anterior
 	Previous sentence	Frase anterior
+	Previous sheet	Hoja anterior
 	Print Documents	Imprimir documentos
 	Print Documents…	Imprimir documentos…
 	Print failed: the printing worker stopped.	La impresión falló: el proceso de impresión se detuvo.
@@ -1853,6 +1855,7 @@
 	Shape Format	Formato de forma
 	Shape Outline	Contorno de forma
 	Shape Styles	Estilos de forma
+	Sheet {page} of {pages}	Hoja {page} de {pages}
 	Shift+Enter starts a new line without starting a new paragraph.	Shift+Enter empieza una línea nueva sin empezar un párrafo nuevo.
 	Shift+Tab	Mayús+Tab
 	Shipping labels	Etiquetas de envío
